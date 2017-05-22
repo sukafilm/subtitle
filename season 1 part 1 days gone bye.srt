@@ -1,2141 +1,2280 @@
-﻿1
-00:03:27,650 --> 00:03:28,710
-Gadis kecil?
+1
+00:02:31,012 --> 00:02:35,413
+<font color="yellow">TAK ADA BENSIN</font>
 
 2
-00:03:30,840 --> 00:03:32,080
-Aku seorang polisi.
+00:03:29,459 --> 00:03:31,210
+<font color="yellow">Gadis kecil?</font>
 
 3
-00:03:32,780 --> 00:03:33,870
-Gadis kecil.
+00:03:32,462 --> 00:03:34,338
+<font color="yellow">Aku polisi.</font>
 
 4
-00:03:38,670 --> 00:03:39,900
-Jangan takut.
+00:03:34,506 --> 00:03:36,591
+<font color="yellow">Gadis kecil.</font>
 
 5
-00:03:43,880 --> 00:03:44,910
-Gadis kecil.
+00:03:40,554 --> 00:03:42,722
+<font color="yellow">Jangan takut.</font>
 
 6
-00:04:17,010 --> 00:04:20,010
-<font color="#ff0000">INDONESIAN SUBTITLE BY</font>
+00:03:45,517 --> 00:03:47,393
+<font color="yellow">Gadis kecil.</font>
 
 7
-00:04:20,210 --> 00:04:22,710
-<font color="#ff0000">prissy4869@gmail.com</font>
-<i>ALWAYS TRY TO BE THE BEST</i>
+00:04:06,330 --> 00:04:08,080
+<font color="yellow">Astaga.</font>
 
 8
-00:04:22,910 --> 00:04:28,410
-<i>+ PRESENTED BY +
-<font color="#ff0000">http://prissysubsmovies.blogspot.com/</font></i>
-*04/11/10*
+00:04:19,885 --> 00:04:54,354
+<font color="yellow">--- Penerjemah: Rizal Adam ---
+http://rizaladam.wordpress.com</font>
 
 9
-00:04:52,669 --> 00:04:56,189
-<font color="#c0c0c0"><b>THE WALKING DEAD</b></font>
+00:04:54,742 --> 00:04:59,885
+<font color="yellow">SEASON 1 EPISODE 1
+DAYS GONE BYE</font>
 
 10
-00:04:59,010 --> 00:05:00,960
-Apa bedanya
-antara laki-laki dan perempuan?
+00:05:00,823 --> 00:05:03,010
+<font color="yellow">Apa perbedaan antara
+pria dan wanita?</font>
 
 11
-00:05:01,210 --> 00:05:03,420
-- Apakah ini lelucon?
-- Tidak, serius.
+00:05:03,178 --> 00:05:05,513
+<font color="yellow">- Ini lelucon?
+- Tidak, aku serius.</font>
 
 12
-00:05:05,000 --> 00:05:07,100
-Aku tak pernah bertemu seorang wanita
-yang tahu cara mematikan lampu.
+00:05:06,848 --> 00:05:09,600
+<font color="yellow">Aku tak pernah bertemu wanita
+yang tahu cara mematikan lampu.</font>
 
 13
-00:05:07,960 --> 00:05:10,080
-Mereka lahir berpikir menurut saklar,
-hanya berjalan satu arah.
+00:05:09,768 --> 00:05:13,024
+<font color="yellow">Mereka terlahir berpikir bahwa
+saklar hanya untuk dinyalakan.</font>
 
 14
-00:05:10,200 --> 00:05:10,960
-Nyala.
+00:05:14,231 --> 00:05:16,649
+<font color="yellow">Mereka menjadi buta begitu
+mereka meninggalkan ruangan.</font>
 
 15
-00:05:12,740 --> 00:05:14,770
-Mereka jadi buta
-sesaat mereka meninggalkan ruangan.
+00:05:16,817 --> 00:05:18,985
+<font color="yellow">Setiap wanita yang kuizinkan
+membawa kunci rumah...</font>
 
 16
-00:05:15,380 --> 00:05:16,680
-Maksudku setiap wanita,
-yang pernah kubiarkan
+00:05:19,152 --> 00:05:22,196
+<font color="yellow">Sumpah demi Tuhan,
+saat aku pulang...</font>
 
 17
-00:05:16,681 --> 00:05:17,980
-memiliki kunci...
-sumpah demi Tuhan.
+00:05:22,364 --> 00:05:25,074
+<font color="yellow">...rumahnya menjadi terang benderang.</font>
 
 18
-00:05:19,110 --> 00:05:20,480
-Pulang,
+00:05:25,242 --> 00:05:27,076
+<font color="yellow">Dan tugasku, rupanya...</font>
 
 19
-00:05:20,780 --> 00:05:22,350
-rumah semua menyala,
+00:05:27,244 --> 00:05:29,745
+<font color="yellow">...karena kromosomku
+yang kebetulan berbeda...</font>
 
 20
-00:05:23,220 --> 00:05:25,530
-dan pekerjaanku, rupanya karena...
+00:05:29,913 --> 00:05:31,664
+<font color="yellow">...adalah aku harus berjalan
+menelusuri rumah itu...</font>
 
 21
-00:05:26,170 --> 00:05:27,730
-karena kromosomku tumbuh berbeda
+00:05:31,832 --> 00:05:34,417
+<font color="yellow">...mematikan setiap lampu yang
+wanita ini biarkan menyala.</font>
 
 22
-00:05:27,850 --> 00:05:29,810
-karena kemudian aku harus 
-berjalan melalui rumah,
+00:05:34,584 --> 00:05:37,336
+<font color="yellow">- Benarkah itu?
+- Ya.</font>
 
 23
-00:05:30,130 --> 00:05:32,760
-mematikan setiap satu lampu
-yang cewek ini tinggalkan.
+00:05:37,504 --> 00:05:39,505
+<font color="yellow">Pendeta Shane kini
+menceramahimu.</font>
 
 24
-00:05:32,880 --> 00:05:35,080
-- Benar begitu?
-- Ya, sayang.
+00:05:41,675 --> 00:05:44,010
+<font color="yellow">Wanita yang sama...</font>
 
 25
-00:05:35,610 --> 00:05:37,880
-Baiklah, Pendeta Shane berkhotbah
-kepadamu sekarang, nak.
+00:05:44,177 --> 00:05:47,096
+<font color="yellow">...yang meributkan tentang
+masalah pemanasan global.</font>
 
 26
-00:05:39,750 --> 00:05:42,330
-Cewek yang sama, mengingatmu.
+00:05:47,264 --> 00:05:49,932
+<font color="yellow">Kau tahu, ini saat Pendeta
+Shane ingin...</font>
 
 27
-00:05:42,450 --> 00:05:44,860
-Dia akan cerewet soal pemanasan global.
+00:05:50,100 --> 00:05:52,685
+<font color="yellow">...mengutip ayat suci dan berkata...</font>
 
 28
-00:05:46,560 --> 00:05:48,160
-Itulah ketika Pendeta Shane ingin
+00:05:52,853 --> 00:05:57,023
+<font color="yellow">"Sayang, mungkin kau dan setiap
+wanita di planet ini...</font>
 
 29
-00:05:48,630 --> 00:05:51,410
-mengutip dari Injil Orang dan
-bilang "Um, Sayang?"
+00:05:57,190 --> 00:06:00,359
+<font color="yellow">...harus memikirkan tentang saklar
+lampu, berlaku untuk keduanya...</font>
 
 30
-00:05:52,080 --> 00:05:55,170
-"Mungkin dirimu, dan setiap
-pasang payudara lainnya di planet ini
+00:06:00,527 --> 00:06:03,320
+<font color="yellow">...mungkin kita takkan
+mengalami pemanasan global."</font>
 
 31
-00:05:55,290 --> 00:05:57,050
-baru saja tahu kalau tombol lampu
+00:06:03,488 --> 00:06:05,197
+<font color="yellow">Kau mengatakan itu?</font>
 
 32
-00:05:57,170 --> 00:05:58,500
-nah, berjalan dua arah,
+00:06:05,365 --> 00:06:08,284
+<font color="yellow">Ya, dalam versi yang sopan.</font>
 
 33
-00:05:58,620 --> 00:06:01,180
-"Mungkin kita tidak akan dapat
-begitu banyak pemanasan global. "
+00:06:08,452 --> 00:06:14,123
+<font color="yellow">Tetap saja, dia memberiku tatapan
+kebencian yang kau takkan percaya.</font>
 
 34
-00:06:01,300 --> 00:06:02,800
-- Kau bilang itu?
-- Ya.
+00:06:14,291 --> 00:06:16,542
+<font color="yellow">Dan saat itulah suara
+dari film "Exorcist" muncul.</font>
 
 35
-00:06:03,050 --> 00:06:04,270
-Bagaimanapun juga, eh...
+00:06:16,710 --> 00:06:19,628
+<font color="yellow">"Kau terdengar sama
+seperti ayahku!</font>
 
 36
-00:06:04,390 --> 00:06:05,550
-versi yang sopan...
+00:06:19,796 --> 00:06:22,506
+<font color="yellow">Selalu mengoceh tentang
+tagihan listrik...</font>
 
 37
-00:06:06,340 --> 00:06:09,130
-Selain itu, itu... yang menghasilkanku begini.
+00:06:22,674 --> 00:06:24,216
+<font color="yellow">...menyuruhku untuk mematikan
+lampu-lampu itu!"</font>
 
 38
-00:06:09,250 --> 00:06:12,110
-Tampang ini dan kebencian
-yang kau tak akan percaya.
+00:06:24,384 --> 00:06:27,053
+<font color="yellow">- Apa yang kau katakan untuk itu?
+- Kutahu apa yang ingin kukatakan.</font>
 
 39
-00:06:12,990 --> 00:06:14,970
-Dan itulah ketika
-suara pengusir setan muncul.
+00:06:27,220 --> 00:06:28,888
+<font color="yellow">Aku ingin mengatakan,
+"Perempuan, kau bermaksud bilang...</font>
 
 40
-00:06:15,090 --> 00:06:17,550
-"Kau terdengar seperti ayahku.
+00:06:29,056 --> 00:06:30,556
+<font color="yellow">...kau akan terus dengarkan ini
+di sepanjang hidupmu...</font>
 
 41
-00:06:18,090 --> 00:06:20,700
-"Selalu, selalu berteriak
-tentang tagihan listrik,
+00:06:30,724 --> 00:06:33,309
+<font color="yellow">...dan kau masih terlalu bodoh untuk
+belajar cara mematikan saklar?"</font>
 
 42
-00:06:20,820 --> 00:06:22,610
-"Menyuruhku mematikan lampu sialan itu."
+00:06:35,687 --> 00:06:39,023
+<font color="yellow">Sebenarnya aku tak mengatakan itu.</font>
 
 43
-00:06:22,730 --> 00:06:24,790
-- Apa yang kau katakan pada itu?
-- Kau tahu apa yang ingin kukatakan.
+00:06:39,191 --> 00:06:40,900
+<font color="yellow">- Itu pasti buruk.
+- Benar.</font>
 
 44
-00:06:25,320 --> 00:06:27,005
-Aku ingin bilang, "Kau
-marah-marah memberitahuku
+00:06:41,068 --> 00:06:43,611
+<font color="yellow">Ya, aku juga mengatakan hal
+itu dengan versi sopan.</font>
 
 45
-00:06:27,006 --> 00:06:28,690
-kau telah mendengar hal
-ini sepanjang hidupmu
+00:06:43,779 --> 00:06:45,613
+<font color="yellow">- Bijaksana sekali.
+- Ya, Pak.</font>
 
 46
-00:06:28,760 --> 00:06:31,630
-"Dan kau masih terlalu bodoh
-untuk mempelajari cara mematikan saklar?
+00:06:51,036 --> 00:06:53,329
+<font color="yellow">Bagaimana dengan Lori, Kawan?</font>
 
 47
-00:06:33,620 --> 00:06:34,910
-Kau tahu...
+00:06:53,497 --> 00:06:56,248
+<font color="yellow">Dia baik.
+Dia mahir mematikan lampu.</font>
 
 48
-00:06:35,030 --> 00:06:37,120
-Aku tidak benar-benar
-bilang itu, walau begitu.
+00:06:56,416 --> 00:06:59,376
+<font color="yellow">Benar-benar mahir. Aku yang
+terkadang lupa matikan lampu.</font>
 
 49
-00:06:37,240 --> 00:06:40,140
-- Itu akan buruk.
-- Ya, lakukan dengan eh...
+00:06:59,544 --> 00:07:01,545
+<font color="yellow">Bukan itu maksudku.</font>
 
 50
-00:06:40,420 --> 00:06:41,520
-versi sopannya di sana...
+00:07:05,300 --> 00:07:07,426
+<font color="yellow">- Malam kami tak hebat.
+- Dengar, Kawan.</font>
 
 51
-00:06:41,640 --> 00:06:43,480
-- Sangat bijaksana.
-- Ya, Pak.
+00:07:07,594 --> 00:07:10,471
+<font color="yellow">Mungkin aku gagal menghibur
+dengan khotbahku...</font>
 
 52
-00:06:48,910 --> 00:06:50,390
-Jadi bagaimana dengan Lori, teman?
+00:07:10,639 --> 00:07:12,515
+<font color="yellow">...tapi aku sudah berusaha.</font>
 
 53
-00:06:52,160 --> 00:06:54,340
-Dia bagus.
-Dia bagus mematikan lampu.
+00:07:12,682 --> 00:07:15,226
+<font color="yellow">Setidaknya yang bisa kau
+lakukan adalah bicara.</font>
 
 54
-00:06:54,460 --> 00:06:57,430
-Benar-benar hebat. Aku tak tahu
-kenapa aku yang terkadang lupa.
+00:07:16,353 --> 00:07:18,270
+<font color="yellow">Itulah selalu yang dia
+katakan.</font>
 
 55
-00:06:57,940 --> 00:06:59,630
-Bukan yang kumaksud.
+00:07:18,438 --> 00:07:22,108
+<font color="yellow">"Bicara."</font>
 
 56
-00:07:03,300 --> 00:07:06,520
-- Kami tidak punya malam yang hebat.
-- Dengar, teman, aku mungkin telah...
+00:07:22,275 --> 00:07:25,569
+<font color="yellow">Kau akan berpikir aku brengsek
+paling pendiam yang pernah ada...</font>
 
 57
-00:07:06,760 --> 00:07:09,800
-gagal menghibur dengan khotbahku,
-tapi aku mencoba.
+00:07:25,737 --> 00:07:27,446
+<font color="yellow">...untuk mendengarkan perkataannya.</font>
 
 58
-00:07:10,830 --> 00:07:12,960
-Paling tidak yang bisa kau 
-lakukan adalah berbicara.
+00:07:29,324 --> 00:07:31,200
+<font color="yellow">Apa kau mengungkapkan
+pikiranmu?</font>
 
 59
-00:07:14,450 --> 00:07:19,750
-Itulah yang selalu dia bilang:
-"Bicara". "bicara".
+00:07:32,452 --> 00:07:34,787
+<font color="yellow">Apa kau menyampaikan
+perasaanmu?</font>
 
 60
-00:07:21,230 --> 00:07:22,955
-Kau akan berpikir akulah
-bajingan mulut tertutup
+00:07:37,040 --> 00:07:39,083
+<font color="yellow">Masalahnya...</font>
 
 61
-00:07:22,956 --> 00:07:24,680
-yang akan pernah dengar
-dia bilang begitu.
+00:07:40,585 --> 00:07:42,711
+<font color="yellow">...akhir-akhir ini,
+setiap kali aku berusaha...</font>
 
 62
-00:07:27,640 --> 00:07:29,030
-Apa kau mengungkapkan pikiranmu?
+00:07:42,879 --> 00:07:46,173
+<font color="yellow">...semua yang kukatakan
+membuatnya tidak sabar.</font>
 
 63
-00:07:30,680 --> 00:07:32,720
-Kau berbagi perasaanmu
-dan hal semacam itu?
+00:07:46,341 --> 00:07:48,300
+<font color="yellow">...seolah dia tak ingin mendengarnya.</font>
 
 64
-00:07:34,940 --> 00:07:36,070
-Masalahnya adalah...
+00:07:49,553 --> 00:07:54,265
+<font color="yellow">Seolah dia kesal padaku sepanjang
+waktu dan aku tak tahu kenapa.</font>
 
 65
-00:07:39,220 --> 00:07:40,970
-akhir-akhir ini setiap
-kali aku mencoba...
+00:07:55,851 --> 00:07:57,977
+<font color="yellow">Dengar, Kawan. Itu masalah
+yang dialami semua pasangan.</font>
 
 66
-00:07:41,580 --> 00:07:44,310
-semua yang kukatakan
-membuatnya tidak sabaran,
+00:07:58,145 --> 00:08:00,312
+<font color="yellow">Ya, itu hanya sebuah tahap.</font>
 
 67
-00:07:44,430 --> 00:07:46,210
-seperti dia tidak ingin
-mendengarnya bagaimanapun juga.
+00:08:05,110 --> 00:08:06,819
+<font color="yellow">Hal terakhir yang dia
+katakan pagi ini...</font>
 
 68
-00:07:47,420 --> 00:07:48,700
-Itu seperti dia...
+00:08:06,987 --> 00:08:10,739
+<font color="yellow">"Kadang aku bertanya-tanya
+apa kau peduli tentang kita."</font>
 
 69
-00:07:49,750 --> 00:07:52,260
-marah padaku sepanjang waktu,
-dan aku tidak tahu kenapa.
+00:08:12,868 --> 00:08:15,911
+<font color="yellow">Dia katakan itu di depan
+anak kami.</font>
 
 70
-00:07:54,050 --> 00:07:56,180
-Dengar, teman, itu hanyalah omong
-kosong yang pasangan lewati.
+00:08:17,539 --> 00:08:19,707
+<font color="yellow">Bayangkan pergi ke sekolah
+dengan ucapan itu di kepalamu.</font>
 
 71
-00:07:56,590 --> 00:07:58,210
-Nah, itu... Itu sebuah fase.
+00:08:23,503 --> 00:08:25,504
+<font color="yellow">Perbedaan antara pria
+dan wanita?</font>
 
 72
-00:08:03,360 --> 00:08:05,000
-Hal terakhir yang
-dikatakannya pagi ini?
+00:08:27,841 --> 00:08:30,551
+<font color="yellow">Aku takkan pernah katakan
+sesuatu yang kejam padanya...</font>
 
 73
-00:08:05,940 --> 00:08:08,510
-"Kadang-kadang aku ingin tahu apakah
-kau peduli dengan kami sama sekali."
+00:08:30,719 --> 00:08:33,012
+<font color="yellow">...dan jelas tidak di depan Carl.</font>
 
 74
-00:08:11,160 --> 00:08:13,570
-Dia bilang itu di depan anak kita.
+00:08:39,065 --> 00:08:41,520
+<font color="yellow"><i>Semua unit, pengejaran
+berkecepatan tinggi sedang terjadi.</i></font>
 
 75
-00:08:15,680 --> 00:08:17,530
-Bayangkan pergi ke sekolah
-dengan itu di kepalamu.
+00:08:41,688 --> 00:08:43,814
+<font color="yellow"><i>Unit di Linden County meminta
+bantuan polisi setempat.</i></font>
 
 76
-00:08:22,110 --> 00:08:23,550
-Perbedaan 
-antara pria dan wanita?
+00:08:43,982 --> 00:08:46,692
+<font color="yellow"><i>Jalan Tol 18 ke arah timur.
+GTA, ADW...</i></font>
 
 77
-00:08:26,020 --> 00:08:28,100
-Aku tidak akan pernah bilang
-sesuatu yang sekejam itu padanya.
+00:08:46,860 --> 00:08:49,695
+<font color="yellow"><i>2-17, 2-4-3. Disarankan
+untuk selalu waspada.</i></font>
 
 78
-00:08:29,460 --> 00:08:31,050
-Tentu saja tidak di depan Carl.
+00:09:02,876 --> 00:09:04,710
+<font color="yellow"><i>Tersangka adalah dua
+pria kulit putih.</i></font>
 
 79
-00:08:37,780 --> 00:08:40,140
-<i>Semua unit yang ada, pengejaran
-kecepatan tinggi sedang berlangsung</i>
+00:09:04,878 --> 00:09:07,171
+<font color="yellow"><i>Harap diketahui, mereka
+menembak petugas polisi.</i></font>
 
 80
-00:08:40,260 --> 00:08:42,260
-<i>unit wilayah Lincoln
-meminta bantuan lokal.</i>
+00:09:07,339 --> 00:09:09,215
+<font color="yellow"><i>Seorang petugas Linden County
+terluka.</i></font>
 
 81
-00:08:42,380 --> 00:08:46,810
-<i>Jalan raya 18 selatan GTAAD W217 243.</i>
+00:09:19,226 --> 00:09:22,102
+<font color="yellow"><i>Unit 1, unit 3, menuju ke
+Rute 18 di arah timur...</i></font>
 
 82
-00:08:46,930 --> 00:08:48,330
-<i>Lanjutkan dengan sangat hati-hati.</i>
+00:09:22,270 --> 00:09:24,063
+<font color="yellow"><i>...3,2 km di arah barat
+Jalan Raya 85.</i></font>
 
 83
-00:09:00,960 --> 00:09:03,060
-<i>Tersangka dua laki-laki kulit putih.</i>
+00:09:24,231 --> 00:09:26,649
+<font color="yellow"><i>Kita akan terhubung dengan
+radio sheriff Linden County.</i></font>
 
 84
-00:09:03,180 --> 00:09:05,150
-<i>Diberitahu, mereka telah
-menembak pada petugas polisi.</i>
+00:09:26,816 --> 00:09:30,653
+<font color="yellow"><i>Diterima. Kami berjarak 5 menit
+dari selatan persimpangan Rute 18.</i></font>
 
 85
-00:09:05,270 --> 00:09:07,260
-<i>Satu petugas wilayah Lincoln terluka.</i>
+00:09:30,820 --> 00:09:32,738
+<font color="yellow"><i>Pusat Kendali,
+unit 1 dan unit 3...</i></font>
 
 86
-00:09:17,430 --> 00:09:19,610
-<i>Unit 1, Unit 3, silakan.</i>
+00:09:32,906 --> 00:09:35,032
+<font color="yellow">...kami berada di 10-97
+dan kode 100...</font>
 
 87
-00:09:19,730 --> 00:09:21,950
-<i>18, 2 mil barat antar
-negarabagian 85 dan kami</i>
+00:09:35,200 --> 00:09:37,785
+<font color="yellow">Jalan Raya 18, di jalan antar
+negara bagian, mohon sarannya.</font>
 
 88
-00:09:21,951 --> 00:09:24,170
-<i>akan sambungkan di radio
-Sheriff wilayah Lincoln.</i>
+00:09:39,829 --> 00:09:41,747
+<font color="yellow"><i>10-9, kami dapat kabar
+dari Linden County...</i></font>
 
 89
-00:09:25,060 --> 00:09:28,540
-Diterima. Kami 5 menit keluar
-pada titik persimpangan rute 18.
+00:09:41,915 --> 00:09:43,582
+<font color="yellow"><i>...bahwa 18 ditinggalkan,
+kini bergerak ke selatan.</i></font>
 
 90
-00:09:29,440 --> 00:09:33,030
-Diberangkatkan, Unit 1, Unit 3,
-kita 10-97 dalam kode 100.
+00:09:47,587 --> 00:09:48,879
+<font color="yellow"><i>Jalan Old French sudah
+diblokade...</i></font>
 
 91
-00:09:33,150 --> 00:09:35,720
-Jalan raya 18, antar
-negarabagian 85, mohon saran.
+00:09:49,047 --> 00:09:50,756
+<font color="yellow"><i>...jadi mereka akan kembali
+ke 18.</i></font>
 
 92
-00:09:52,660 --> 00:09:54,220
-Kedengarannya seperti mereka
-mengejar orang-orang idiot
+00:09:54,511 --> 00:09:58,097
+<font color="yellow">Sepertinya mereka mengejar orang-orang
+bodoh itu di semua jalan yang kita miliki.</font>
 
 93
-00:09:54,221 --> 00:09:55,780
-atas dan bawah setiap jalan
-balik yang kita punya.
+00:09:58,265 --> 00:09:59,890
+<font color="yellow">Mungkin kita akan muncul
+di acara tayangan video.</font>
 
 94
-00:09:56,170 --> 00:09:56,990
-Hei, kita akan membuat
-mereka dalam salah satu
+00:10:00,058 --> 00:10:01,976
+<font color="yellow">Seperti "World's Craziest Police
+Chases." Bagaimana?</font>
 
 95
-00:09:56,991 --> 00:09:57,810
-acara video tersebut, kau tahu,
+00:10:02,143 --> 00:10:03,936
+<font color="yellow">Yang kupikirkan adalah kau
+harus tetap fokus, Leon.</font>
 
 96
-00:09:57,840 --> 00:09:59,880
-seperti kejar-kejaran polisi
-tergila didunia, apa pendapatmu?
+00:10:04,104 --> 00:10:06,397
+<font color="yellow">Pastikan kau punya peluru di
+senapanmu dan lepaskan pengamannya.</font>
 
 97
-00:09:59,930 --> 00:10:01,990
-Apa yang kupikir, Leon, adalah
-kalau kau harus tetap fokus.
+00:10:14,030 --> 00:10:16,365
+<font color="yellow">Pasti keren jika muncul
+di acara tayangan video itu.</font>
 
 98
-00:10:02,280 --> 00:10:04,740
-Pastikan kau memiliki peluru dalam
-selongsong dan tombol safety-mu off.
+00:11:03,913 --> 00:11:05,539
+<font color="yellow">Ya ampun.</font>
 
 99
-00:10:12,360 --> 00:10:14,390
-Akan keren untuk masuk dalam
-salah satu acara mereka.
+00:11:27,979 --> 00:11:29,813
+<font color="yellow">- Pistol!
+- Turunkan!</font>
 
 100
-00:11:02,070 --> 00:11:03,010
-Astaga.
+00:11:29,981 --> 00:11:31,982
+<font color="yellow">Turunkan pistolnya!</font>
 
 101
-00:11:25,950 --> 00:11:28,110
-- Pistol, pistol, pistol.
-- Turunkan ke bawah!
+00:12:04,974 --> 00:12:06,392
+<font color="yellow">Rick!</font>
 
 102
-00:11:28,150 --> 00:11:30,010
-Turunkan pistolnya ke bawah!!
+00:12:06,559 --> 00:12:08,560
+<font color="yellow">Aku tak apa-apa!</font>
 
 103
-00:12:03,000 --> 00:12:05,940
-- Rick!
-- Aku baik-baik saja!
+00:12:12,315 --> 00:12:13,732
+<font color="yellow">Aku melihatmu tertembak,
+Kawan.</font>
 
 104
-00:12:10,530 --> 00:12:13,110
-Aku lihat dirimu tertembak, teman,
-itu sangat menakuti diriku.
+00:12:13,900 --> 00:12:15,275
+<font color="yellow">Itu membuatku ketakutan.</font>
 
 105
-00:12:14,010 --> 00:12:15,110
-Aku juga.
+00:12:15,443 --> 00:12:17,319
+<font color="yellow">Aku juga.</font>
 
 106
-00:12:15,920 --> 00:12:18,680
-Bajingan itu menembakku.
-Kau percaya itu?
+00:12:17,487 --> 00:12:19,488
+<font color="yellow">Brengsek itu menembakku.</font>
 
 107
-00:12:18,940 --> 00:12:20,220
-Kami akan mendapatkanmu rompi baru.
+00:12:19,656 --> 00:12:22,074
+<font color="yellow">- Kau percaya itu?
+- Pelurunya mengenai rompimu?</font>
 
 108
-00:12:21,180 --> 00:12:22,490
-Ya.
+00:12:22,242 --> 00:12:23,826
+<font color="yellow">Ya.</font>
 
 109
-00:12:23,790 --> 00:12:27,450
-Shane, kau jangan memberi tahu
-Lori yang terjadi. Jangan.
+00:12:25,912 --> 00:12:28,914
+<font color="yellow">Shane, jangan katakan pada Lori
+apa yang terjadi. Jangan pernah.</font>
 
 110
-00:12:28,040 --> 00:12:29,100
-Kau paham... Aah!
+00:12:30,076 --> 00:12:31,539
+<font color="yellow">Kau mengerti?</font>
 
 111
-00:12:31,410 --> 00:12:34,020
-Rick! Rick!
-Tidak, tidak, tidak!
+00:12:32,919 --> 00:12:35,754
+<font color="yellow">- Polisi, masuk!
+- Tidak.</font>
 
 112
-00:12:36,320 --> 00:12:38,600
-Tidak, tidak, tidak, tidak...
+00:12:35,922 --> 00:12:38,382
+<font color="yellow"><i>Kau lihat dia datang
+dari mana?</i></font>
 
 113
-00:12:38,720 --> 00:12:39,760
-Dia terluka!
+00:12:38,550 --> 00:12:40,426
+<font color="yellow">Tidak.</font>
 
 114
-00:12:40,260 --> 00:12:41,390
-Leon!
+00:12:40,593 --> 00:12:41,927
+<font color="yellow">Dia tertembak!</font>
 
 115
-00:12:41,730 --> 00:12:43,410
-Kau panggilkan ambulans itu
-di sini, kau bilang mereka
+00:12:42,095 --> 00:12:44,805
+<font color="yellow">Leon!
+Panggil ambulans ke sini!</font>
 
 116
-00:12:43,411 --> 00:12:45,090
-ada seorang polisi terjatuh,
-lakukanlah sekarang!
+00:12:44,973 --> 00:12:46,932
+<font color="yellow">Katakan ada polisi tertembak!
+Lakukan sekarang!</font>
 
 117
-00:12:45,570 --> 00:12:49,820
-Sst, hei, kau lihat diriku,
-tetap denganku, kau dengar? oke.
+00:12:47,100 --> 00:12:48,114
+<font color="yellow">Tak apa-apa.</font>
 
 118
-00:12:50,090 --> 00:12:53,800
-Sst, sst, tetap denganku, kau dengar?
+00:12:48,601 --> 00:12:49,935
+<font color="yellow">Aku di sini. Lihat aku.
+Tetaplah bersamaku.</font>
 
 119
-00:12:53,920 --> 00:12:54,870
-Sst, sst, ok?
+00:12:50,103 --> 00:12:52,020
+<font color="yellow">Kau dengar aku?
+Tak apa-apa.</font>
 
 120
-00:12:54,990 --> 00:12:56,700
-Kau tetap denganku, ok?
+00:12:52,188 --> 00:12:53,856
+<font color="yellow">Aku ada di sini, Rick.
+Tetaplah bersamaku. Kau dengar?</font>
 
 121
-00:13:13,970 --> 00:13:15,200
-Hei, teman...
+00:12:54,023 --> 00:12:56,358
+<font color="yellow">Seperti itu. Kau mendengarku?
+Tak apa-apa.</font>
 
 122
-00:13:17,050 --> 00:13:18,540
-Kami masih di sini.
+00:12:56,526 --> 00:12:58,610
+<font color="yellow">Aku di sini denganmu.
+Tetaplah bersamaku.</font>
 
 123
-00:13:19,470 --> 00:13:21,000
-Kami masih bertahan...
+00:12:58,778 --> 00:13:00,654
+<font color="yellow">Seperti itu.
+Aku di sini.</font>
 
 124
-00:13:25,430 --> 00:13:26,720
-Dengar, aku minta maaf, teman.
+00:13:00,822 --> 00:13:02,614
+<font color="yellow"><i>Puat Kendali, seorang
+petugas tertembak.</i></font>
 
 125
-00:13:26,840 --> 00:13:29,330
-Maksudku melihat omong kosong yang
-sama setiap kali kudatang ke sini.
+00:13:02,782 --> 00:13:04,408
+<font color="yellow"><i>Meminta bantuan paramedis,
+mohon direspons.</i></font>
 
 126
-00:13:33,900 --> 00:13:36,090
-Semua orang ribut soal ini.
-Mereka eh...
+00:13:04,576 --> 00:13:06,410
+<font color="yellow"><i>Rute 18, 2 mil di
+barat Jalan Negara Bagian 85.</i></font>
 
 127
-00:13:36,850 --> 00:13:37,975
-Mereka ingin diriku untuk
-membawanya, mereka
+00:13:06,578 --> 00:13:08,704
+<font color="yellow"><i>Kuulangi, petugas tertembak.
+Meminta bantuan secepatnya.</i></font>
 
 128
-00:13:37,976 --> 00:13:39,100
-mengirim cinta mereka
-dan mereka hanya...
+00:13:15,962 --> 00:13:17,796
+<font color="yellow">Hei, Kawan.</font>
 
 129
-00:13:39,920 --> 00:13:41,570
-Mereka berharap kau
-kembali dengan segera.
+00:13:19,007 --> 00:13:20,591
+<font color="yellow">Kami masih di sini.</font>
 
 130
-00:13:45,570 --> 00:13:48,550
-Linda dan Diane dari pengiriman,
-mereka yang memilih ini.
+00:13:20,758 --> 00:13:23,302
+<font color="yellow">Kami masih bertahan.</font>
 
 131
-00:13:49,780 --> 00:13:50,860
-Kau mungkin bisa tahu, hmm?
+00:13:26,848 --> 00:13:28,474
+<font color="yellow">Maaf, Kawan.</font>
 
 132
-00:13:53,800 --> 00:13:55,920
-Aku hanya akan mengatur ini di
-atas meja sebelahmu, ok?
+00:13:28,641 --> 00:13:31,143
+<font color="yellow">Aku tahu aku mengatakan hal
+yang sama setiap kali aku datang.</font>
 
 133
-00:14:06,050 --> 00:14:08,740
-vas itu memiliki sesuatu yang istimewa.
+00:13:35,315 --> 00:13:37,107
+<font color="yellow">Semua orang mengirimkan ini.</font>
 
 134
-00:14:09,240 --> 00:14:12,490
-Mengakulah. Apa kau mencurinya dari
-rumah nenek Gene-mu.
+00:13:37,275 --> 00:13:39,526
+<font color="yellow">Mereka ingin aku membawanya.</font>
 
 135
-00:14:13,570 --> 00:14:15,960
-Kuharap kau tinggalkan dirinya
-koleksi sendok itu.
+00:13:39,694 --> 00:13:41,403
+<font color="yellow">Mereka mengirimkan salam...</font>
 
 136
-00:14:24,580 --> 00:14:25,590
-Shane?
+00:13:41,571 --> 00:13:43,989
+<font color="yellow">...dan mereka berharap kau
+akan segera kembali.</font>
 
 137
-00:14:29,950 --> 00:14:31,750
-Shane, kau dirumah John?
+00:13:47,160 --> 00:13:50,704
+<font color="yellow">Linda dan Diane dari
+Pusat Kendali yang memetiknya.</font>
 
 138
-00:15:49,550 --> 00:15:51,240
-Perawat, tolong.
+00:13:50,872 --> 00:13:53,040
+<font color="yellow">Mungkin kau tahu, ya?</font>
 
 139
-00:15:53,320 --> 00:15:54,390
-Perawat.
+00:13:55,835 --> 00:13:58,086
+<font color="yellow">Aku akan menaruhnya
+di meja yang ada di sampingmu.</font>
 
 140
-00:15:54,870 --> 00:15:55,920
-Tolong!
+00:14:07,764 --> 00:14:10,516
+<font color="yellow">Vas itu sesuatu yang spesial.</font>
 
 141
-00:23:42,750 --> 00:23:44,090
-Lori!
+00:14:10,683 --> 00:14:14,186
+<font color="yellow">Dasar kau. Kau mencurinya dari
+rumah Nenek Jean?</font>
 
 142
-00:23:47,040 --> 00:23:48,240
-Lori!
+00:14:15,688 --> 00:14:17,981
+<font color="yellow">Kuharap kau meninggalkan
+koleksi sendoknya.</font>
 
 143
-00:23:55,430 --> 00:23:56,790
-Carl!
+00:14:26,115 --> 00:14:27,908
+<font color="yellow">Shane?</font>
 
 144
-00:23:57,430 --> 00:23:58,650
-Carl!
+00:14:31,538 --> 00:14:33,872
+<font color="yellow">Shane, kau di toilet?</font>
 
 145
-00:24:04,670 --> 00:24:07,520
-Lori! Carl!
+00:15:51,868 --> 00:15:53,702
+<font color="yellow">Suster, tolong.</font>
 
 146
-00:24:21,780 --> 00:24:24,810
-Lori! Carl!
+00:15:55,455 --> 00:15:58,206
+<font color="yellow">Suster, tolong.</font>
 
 147
-00:24:41,540 --> 00:24:44,960
-Apa ini nyata?
-Apa aku di sini?
+00:18:28,900 --> 00:18:31,795
+<font color="yellow">JANGAN DIBUKA
+ADA MAYAT DI DALAM</font>
 
 148
-00:24:51,920 --> 00:24:53,540
-Bangun, bangun!
+00:23:10,848 --> 00:23:12,891
+<font color="yellow">Sial.</font>
 
 149
-00:26:08,680 --> 00:26:10,610
-- Ayah, ayah!
-- Carl...
+00:23:46,592 --> 00:23:48,676
+<font color="yellow">Lori.</font>
 
 150
-00:26:10,860 --> 00:26:11,810
-Carl?
+00:23:51,889 --> 00:23:53,223
+<font color="yellow">Lori!</font>
 
 151
-00:26:12,380 --> 00:26:13,310
-Aku menemukanmu...
+00:24:00,106 --> 00:24:03,399
+<font color="yellow">Carl. Carl!</font>
 
 152
-00:26:13,570 --> 00:26:15,680
-Ayah, aku dapatkan bajingan ini.
-Akan kupukul dia sampai mati.
+00:24:06,278 --> 00:24:07,529
+<font color="yellow">Sial.</font>
 
 153
-00:26:23,750 --> 00:26:25,900
-Dia bilang sesuatu?
-Kupikir kudengar dia mengatakan sesuatu.
+00:24:09,406 --> 00:24:11,783
+<font color="yellow">Lori! Carl!</font>
 
 154
-00:26:26,020 --> 00:26:28,600
-- Dia memanggilku Carl.
-- Nak, kau tahu mereka tidak bicara.
+00:24:26,257 --> 00:24:29,634
+<font color="yellow">Lori! Carl.</font>
 
 155
-00:26:28,720 --> 00:26:29,630
-Hei, tuan!
+00:24:45,818 --> 00:24:47,610
+<font color="yellow">Apa ini nyata?</font>
 
 156
-00:26:30,090 --> 00:26:31,800
-Untuk apa perban itu?
+00:24:47,778 --> 00:24:49,779
+<font color="yellow">Apa aku ada di sini?</font>
 
 157
-00:26:33,950 --> 00:26:35,810
-- Apa?
-- Luka jenis apa?
+00:24:56,328 --> 00:24:57,912
+<font color="yellow">Bangunlah.</font>
 
 158
-00:26:37,190 --> 00:26:38,930
-Kau jawab aku, sialan kau!
+00:26:12,780 --> 00:26:14,656
+<font color="yellow">- Ayah!
+- Carl.</font>
 
 159
-00:26:39,890 --> 00:26:41,020
-Apa lukamu?
+00:26:14,823 --> 00:26:17,951
+<font color="yellow">Carl.
+Ayah menemukanmu.</font>
 
 160
-00:26:42,610 --> 00:26:43,850
-Kau bilang padaku!
+00:26:18,118 --> 00:26:20,828
+<font color="yellow">Ayah, aku dapat satu!
+Akan kupukul dia sampai mati!</font>
 
 161
-00:26:45,010 --> 00:26:46,090
-Atau aku akan membunuhmu.
+00:26:27,920 --> 00:26:30,380
+<font color="yellow">Dia katakan sesuatu? Ayah
+dengar dia katakan sesuatu.</font>
 
 162
-00:27:10,450 --> 00:27:13,860
-Kuganti perban itu.
-Itu cukup busuk.
+00:26:30,547 --> 00:26:32,924
+<font color="yellow">- Dia memanggilku Carl.
+- Nak, kau tahu mereka tak bicara.</font>
 
 163
-00:27:15,260 --> 00:27:17,500
-Apa itu? Lukanya?
+00:26:33,092 --> 00:26:35,927
+<font color="yellow">Hei Tuan, untuk apa
+perbanmu itu?</font>
 
 164
-00:27:18,770 --> 00:27:20,890
-- Tertembak.
-- Tertembak?
+00:26:36,095 --> 00:26:38,763
+<font color="yellow">Apa?</font>
 
 165
-00:27:22,200 --> 00:27:23,810
-Apa lagi? Apa saja?
+00:26:38,931 --> 00:26:41,099
+<font color="yellow">Luka apa itu?</font>
 
 166
-00:27:25,090 --> 00:27:26,490
-Tertembak tidak cukup?
+00:26:41,267 --> 00:26:44,102
+<font color="yellow">Jawab aku, Brengsek.</font>
 
 167
-00:27:28,460 --> 00:27:30,810
-Dengar, aku tanya dan kau menjawab,
+00:26:44,270 --> 00:26:46,229
+<font color="yellow">Luka apa yang kau
+dapatkan itu?</font>
 
 168
-00:27:31,290 --> 00:27:32,980
-Itu basa-basi yang umum, kan?
+00:26:47,273 --> 00:26:48,940
+<font color="yellow">Katakan padaku...</font>
 
 169
-00:27:37,000 --> 00:27:39,280
-Apa kau digigit?
+00:26:49,108 --> 00:26:51,317
+<font color="yellow">...atau aku akan membunuhmu.</font>
 
 170
-00:27:41,600 --> 00:27:43,310
-- Digigit?
-- Digigit. Dikunyah.
+00:27:15,009 --> 00:27:17,135
+<font color="yellow">Perbanmu sudah diganti.</font>
 
 171
-00:27:43,720 --> 00:27:45,940
-Mungkin cakaran? Hal seperti itu.
+00:27:17,303 --> 00:27:18,845
+<font color="yellow">Keadaannya sangat buruk.</font>
 
 172
-00:27:47,240 --> 00:27:48,450
-Tidak, aku tertembak.
+00:27:19,013 --> 00:27:22,223
+<font color="yellow">Luka apa itu?</font>
 
 173
-00:27:49,580 --> 00:27:51,590
-Hanya ditembak,
-sejauh yang kutahu.
+00:27:22,391 --> 00:27:25,768
+<font color="yellow">- Luka tembak.
+- Luka tembak?</font>
 
 174
-00:27:55,270 --> 00:27:56,140
-Hei...
+00:27:26,812 --> 00:27:28,730
+<font color="yellow">Apa lagi?
+Apa saja?</font>
 
 175
-00:27:56,550 --> 00:27:57,410
-Biarkan aku...
+00:27:28,897 --> 00:27:31,566
+<font color="yellow">Luka tembak tak cukup?</font>
 
 176
-00:28:01,200 --> 00:28:02,460
-Terasa dingin sekarang.
+00:27:33,319 --> 00:27:35,236
+<font color="yellow">Dengar, aku bertanya
+dan kau menjawab.</font>
 
 177
-00:28:03,340 --> 00:28:05,040
-Demam akan sudah membunuhmu sekarang.
+00:27:35,404 --> 00:27:37,905
+<font color="yellow">Itu kesopanan yang umum, 'kan?</font>
 
 178
-00:28:06,170 --> 00:28:08,800
-- Kurasa aku tidak punya demam.
-- Sangat sulit dilewatkan.
+00:27:41,702 --> 00:27:44,579
+<font color="yellow">Kau tergigit?</font>
 
 179
-00:28:15,340 --> 00:28:16,390
-Ambil waktu, ya?
+00:27:46,206 --> 00:27:47,999
+<font color="yellow">- Tergigit?
+- Tergigit, terkunyah...</font>
 
 180
-00:28:16,720 --> 00:28:17,960
-Lihatlah betapa tajamnya itu.
+00:27:48,167 --> 00:27:51,002
+<font color="yellow">...mungkin tercakar atau
+sesuatu seperti itu?</font>
 
 181
-00:28:19,000 --> 00:28:20,840
-Kau mencoba sesuatu...
+00:27:51,170 --> 00:27:53,171
+<font color="yellow">Tidak, aku tertembak.</font>
 
 182
-00:28:21,440 --> 00:28:24,350
-Aku akan membunuhmu dengannya,
-dan jangan kau pikir aku tidak akan.
+00:27:54,423 --> 00:27:56,632
+<font color="yellow">Hanya tertembak sejauh
+yang aku ketahui.</font>
 
 183
-00:28:36,120 --> 00:28:37,580
-Bangunlah saat kau mampu.
+00:27:59,845 --> 00:28:02,513
+<font color="yellow">Biarkan aku yang melakukannya.</font>
 
 184
-00:28:41,610 --> 00:28:42,300
-Ayolah.
+00:28:05,684 --> 00:28:07,060
+<font color="yellow">Terasa cukup dingin.</font>
 
 185
-00:29:13,690 --> 00:29:14,860
-Tempat ini...
+00:28:07,227 --> 00:28:10,021
+<font color="yellow">Demam akan membuatmu mati
+saat ini.</font>
 
 186
-00:29:16,570 --> 00:29:18,000
-Ini tempatnya Fred dan Cindy Drake.
+00:28:10,189 --> 00:28:12,315
+<font color="yellow">Kupikir aku tak demam.</font>
 
 187
-00:29:18,920 --> 00:29:20,140
-Tidak pernah bertemu dengan mereka.
+00:28:12,483 --> 00:28:14,317
+<font color="yellow">Sulit untuk dilewatkan.</font>
 
 188
-00:29:20,850 --> 00:29:23,120
-Aku pernah di sini.
-Ini adalah tempat mereka.
+00:28:20,199 --> 00:28:23,076
+<font color="yellow">Perhatikan seberapa tajamnya
+pisau ini.</font>
 
 189
-00:29:23,510 --> 00:29:25,490
-Itu kosong saat kami sampai di sini.
+00:28:23,243 --> 00:28:25,578
+<font color="yellow">Kau coba macam-macam...</font>
 
 190
-00:29:28,840 --> 00:29:29,950
-Jangan lakukan itu.
+00:28:25,746 --> 00:28:27,205
+<font color="yellow">...aku akan membunuhmu
+dengan ini.</font>
 
 191
-00:29:30,560 --> 00:29:31,840
-Mereka akan melihat cahayanya.
+00:28:27,373 --> 00:28:29,582
+<font color="yellow">Dan jangan berpikir aku
+takkan melakukannya.</font>
 
 192
-00:29:32,660 --> 00:29:34,210
-Ada banyak dari mereka di luar sana dari biasanya.
+00:28:40,469 --> 00:28:42,887
+<font color="yellow">Keluarlah saat kau sudah kuat.</font>
 
 193
-00:29:35,440 --> 00:29:37,930
-Aku seharusnya tidak menembakkan senjata itu hari ini.
+00:28:46,183 --> 00:28:47,725
+<font color="yellow">Ayo.</font>
 
 194
-00:29:38,780 --> 00:29:41,320
-Suaranya menarik mereka,
-sekarang mereka semua di jalan.
+00:29:18,090 --> 00:29:22,760
+<font color="yellow">Ini rumah Fred dan Cindy Drake?</font>
 
 195
-00:29:42,290 --> 00:29:45,180
-Bodoh... menggunakan senjata...
+00:29:22,928 --> 00:29:24,887
+<font color="yellow">Aku tak pernah
+bertemu mereka.</font>
 
 196
-00:29:46,280 --> 00:29:48,140
-Semuanya terjadi begitu cepat...
+00:29:25,055 --> 00:29:27,723
+<font color="yellow">Aku pernah kemari.
+Ini rumah mereka.</font>
 
 197
-00:29:49,070 --> 00:29:51,890
-- Aku tidak berpikir.
-- Kau menembak orang itu hari ini.
+00:29:27,891 --> 00:29:30,268
+<font color="yellow">Rumah ini sudah kosong
+saat kami datang ke sini.</font>
 
 198
-00:29:52,790 --> 00:29:53,560
-Orang?
+00:29:33,355 --> 00:29:36,482
+<font color="yellow">Jangan lakukan itu.
+Mereka akan melihat cahayanya.</font>
 
 199
-00:29:53,980 --> 00:29:56,690
-- Tidak ada orang...
-- Apa-apaan yang keluar dari mulutmu tadi?
+00:29:36,650 --> 00:29:39,110
+<font color="yellow">Mereka lebih banyak dari
+yang biasanya.</font>
 
 200
-00:29:57,760 --> 00:29:59,650
-- Itu bukan seorang manusia.
-- Kau menembaknya.
+00:29:39,278 --> 00:29:43,030
+<font color="yellow">Aku seharusnya tak menembak
+hari ini.</font>
 
 201
-00:29:59,770 --> 00:30:01,600
-Di jalan ini, di depan, seorang pria.
+00:29:43,198 --> 00:29:45,825
+<font color="yellow">Suaranya menarik mereka.
+Kini mereka ada di jalanan.</font>
 
 202
-00:30:01,640 --> 00:30:03,920
-Baginya, kau perlu kacamata,
-itu adalah walker (pejalan).
+00:29:45,993 --> 00:29:49,620
+<font color="yellow">Bodoh untuk menggunakan pistol.</font>
 
 203
-00:30:04,950 --> 00:30:05,610
-Ayolah.
+00:29:50,706 --> 00:29:52,582
+<font color="yellow">Namun itu semua terjadi
+begitu cepat.</font>
 
 204
-00:30:07,170 --> 00:30:09,370
-Duduklah, sebelum kau jatuh.
+00:29:52,749 --> 00:29:54,292
+<font color="yellow">Aku tak berpikir.</font>
 
 205
-00:30:11,080 --> 00:30:12,680
-Ini. Makan.
+00:29:54,460 --> 00:29:56,461
+<font color="yellow">Kau menembak pria itu
+hari ini.</font>
 
 206
-00:30:15,260 --> 00:30:16,180
-Ayah...
+00:29:56,628 --> 00:29:59,046
+<font color="yellow">- Pria?
+- Itu bukan manusia.</font>
 
 207
-00:30:17,350 --> 00:30:18,350
-Doa...
+00:29:59,214 --> 00:30:00,965
+<font color="yellow">Apa yang kau katakan barusan?</font>
 
 208
-00:30:20,460 --> 00:30:21,400
-Ya.
+00:30:01,133 --> 00:30:03,342
+<font color="yellow">Itu memang bukan manusia.</font>
 
 209
-00:30:35,000 --> 00:30:36,810
-Bapa, kami mengucapkan terima kasih
-kepada-Mu untuk makanan ini...
+00:30:03,510 --> 00:30:06,137
+<font color="yellow">Kau menembaknya di jalanan.
+Seorang manusia.</font>
 
 210
-00:30:37,130 --> 00:30:38,220
-Berkat-Mu...
+00:30:06,305 --> 00:30:09,140
+<font color="yellow">Kawan, kau butuh kacamata.
+Itu mayat hidup.</font>
 
 211
-00:30:39,210 --> 00:30:42,220
-Kami meminta-Mu untuk menjaga atas
-kami dalam hari-hari gila ini.
+00:30:09,308 --> 00:30:14,604
+<font color="yellow">Ayo.
+Duduklah sebelum kau terjatuh.</font>
 
 212
-00:30:42,340 --> 00:30:43,360
-- Amin.
-- Amin.
+00:30:15,647 --> 00:30:16,898
+<font color="yellow">Ini.</font>
 
 213
-00:30:50,600 --> 00:30:52,480
-Hei, tuan, apa kau bahkan
-tahu apa yang terjadi?
+00:30:19,985 --> 00:30:21,694
+<font color="yellow">Ayah...</font>
 
 214
-00:30:52,930 --> 00:30:54,420
-Aku terbangun hari ini.
+00:30:21,862 --> 00:30:23,529
+<font color="yellow">Berdoa.</font>
 
 215
-00:30:55,640 --> 00:30:57,010
-Di rumah sakit.
+00:30:25,073 --> 00:30:26,824
+<font color="yellow">Ya.</font>
 
 216
-00:30:58,940 --> 00:31:00,620
-Pulang kerumah, itu semua yang kutahu.
+00:30:38,754 --> 00:30:41,172
+<font color="yellow">Tuhan, terima kasih
+untuk makanan ini.</font>
 
 217
-00:31:04,690 --> 00:31:06,085
-Tapi kau tahu tentang
-orang-orang mati, kan?
+00:30:41,340 --> 00:30:43,382
+<font color="yellow">Berkah dari-Mu.</font>
 
 218
-00:31:06,086 --> 00:31:07,480
-Ya, aku melihat banyak itu.
+00:30:43,550 --> 00:30:46,636
+<font color="yellow">Dan kami minta pada-Mu untuk
+menjaga kami di masa genting ini.</font>
 
 219
-00:31:08,590 --> 00:31:11,140
-Diluar di dok pemuatan,
-truk pengangkutan.
+00:30:46,803 --> 00:30:48,221
+<font color="yellow">- Amin.
+- Amin.</font>
 
 220
-00:31:11,260 --> 00:31:12,180
-Tidak...
+00:30:55,187 --> 00:30:57,271
+<font color="yellow">Hei Tuan, apa kau tahu
+apa yang sedang terjadi?</font>
 
 221
-00:31:12,660 --> 00:31:13,920
-Bukan yang mereka taruh...
+00:30:57,439 --> 00:31:01,609
+<font color="yellow">Aku terbangun di RS
+hari ini.</font>
 
 222
-00:31:14,200 --> 00:31:16,170
-Yang mereka tidak taruh.
-Para pejalan.
+00:31:03,278 --> 00:31:05,530
+<font color="yellow">Aku pulang ke rumah
+dan inilah yang kuketahui.</font>
 
 223
-00:31:17,560 --> 00:31:19,080
-Seperti yang kutembak hari ini.
+00:31:08,325 --> 00:31:10,576
+<font color="yellow">Tapi kau tahu tentang
+orang-orang yang mati itu, 'kan?</font>
 
 224
-00:31:19,690 --> 00:31:21,100
-Karena dia akan merobek
-ke dalam dirimu.
+00:31:10,744 --> 00:31:13,037
+<font color="yellow">Ya, aku banyak melihatnya.</font>
 
 225
-00:31:21,580 --> 00:31:23,950
-Mencoba memakanmu, mengambil
-suatu daging, setidaknya.
+00:31:13,205 --> 00:31:15,706
+<font color="yellow">Ada di dok muatan,
+menumpuk dalam truk.</font>
 
 226
-00:31:25,390 --> 00:31:27,590
-Tapi kurasa jika inilah yang
-pertama kali kau dengar,
+00:31:15,874 --> 00:31:18,376
+<font color="yellow">Tidak, bukan yang dimatikan.</font>
 
 227
-00:31:28,220 --> 00:31:29,830
-Aku tahu bagaimana ini
-pasti terdengar...
+00:31:18,544 --> 00:31:20,920
+<font color="yellow">Yang tak dimatikan.
+Mayat hidup.</font>
 
 228
-00:31:33,290 --> 00:31:35,540
-- Mereka di luar sana sekarang, di jalanan?
-- Ya.
+00:31:21,088 --> 00:31:23,881
+<font color="yellow">Seperti yang kutembak hari ini.</font>
 
 229
-00:31:36,610 --> 00:31:38,910
-Mereka bahkan lebih aktif
-setelah gelap terkadang.
+00:31:24,049 --> 00:31:25,591
+<font color="yellow">Karena dia akan merobek
+tubuhmu...</font>
 
 230
-00:31:39,560 --> 00:31:41,040
-Mungkin itu udara dingin atau...
+00:31:25,759 --> 00:31:28,219
+<font color="yellow">...berusaha memakanmu,
+mengambil sebagian dagingmu.</font>
 
 231
-00:31:41,160 --> 00:31:43,500
-mungkin itu hanya diriku
-menembakkan pistol itu hari ini.
+00:31:28,387 --> 00:31:31,722
+<font color="yellow">Kurasa ini pertama kali
+kau mendengarnya.</font>
 
 232
-00:31:44,230 --> 00:31:46,800
-Tapi kita akan baik-baik
-saja selama kita tetap diam.
+00:31:31,890 --> 00:31:34,559
+<font color="yellow">Aku tahu bagaimana ini
+terdengar.</font>
 
 233
-00:31:47,390 --> 00:31:49,200
-Mungkin berjalan-jalan setelah pagi.
+00:31:37,187 --> 00:31:39,188
+<font color="yellow">Mereka di luar sekarang?
+Di jalanan?</font>
 
 234
-00:31:51,770 --> 00:31:52,800
-Dengar
+00:31:39,356 --> 00:31:40,439
+<font color="yellow">Ya.</font>
 
 235
-00:31:54,510 --> 00:31:55,940
-Satu hal yang kutahu...
+00:31:40,607 --> 00:31:43,192
+<font color="yellow">Mereka kadang menjadi lebih
+aktif setelah malam tiba.</font>
 
 236
-00:31:56,990 --> 00:31:58,160
-Jangan dirimu terkena gigitan!
+00:31:43,360 --> 00:31:45,194
+<font color="yellow">Mungkin karena udara
+yang dingin atau...</font>
 
 237
-00:31:58,860 --> 00:32:01,450
-Kami melihat perbanmu dan
-itulah sebabnya kami takut.
+00:31:45,362 --> 00:31:48,281
+<font color="yellow">...mungkin karena aku
+menembak hari ini.</font>
 
 238
-00:32:02,770 --> 00:32:04,200
-Gigitan membunuhmu.
+00:31:48,448 --> 00:31:51,492
+<font color="yellow">Namun kita akan baik-baik saja
+selama kita tetap diam.</font>
 
 239
-00:32:04,630 --> 00:32:06,230
-Demamnya... membakar dirimu.
+00:31:51,660 --> 00:31:53,953
+<font color="yellow">Mungkin akan berjalan-jalan
+pada pagi hari.</font>
 
 240
-00:32:06,350 --> 00:32:07,870
-Tapi kemudian setelah beberapa saat...
+00:31:56,081 --> 00:31:57,582
+<font color="yellow">Tapi dengar...</font>
 
 241
-00:32:10,190 --> 00:32:11,080
-Kau datang kembali.
+00:31:59,084 --> 00:32:00,918
+<font color="yellow">Satu hal yang kuketahui...</font>
 
 242
-00:32:17,360 --> 00:32:18,560
-Aku melihat itu terjadi...
+00:32:01,086 --> 00:32:03,004
+<font color="yellow">...jangan sampai kau tergigit.</font>
 
 243
-00:32:24,290 --> 00:32:25,400
-Ayo...
+00:32:03,171 --> 00:32:06,173
+<font color="yellow">Aku melihat perbanmu dan
+itulah yang aku takutkan.</font>
 
 244
-00:32:33,820 --> 00:32:34,760
-Carl...
+00:32:06,341 --> 00:32:08,801
+<font color="yellow">Gigitan akan membunuhmu.</font>
 
 245
-00:32:36,030 --> 00:32:37,230
-Dia anakmu?
+00:32:08,969 --> 00:32:10,761
+<font color="yellow">Demam akan kau memakanmu.</font>
 
 246
-00:32:38,130 --> 00:32:39,090
-William...
+00:32:10,929 --> 00:32:12,638
+<font color="yellow">Namun setelah beberapa saat...</font>
 
 247
-00:32:40,290 --> 00:32:41,610
-Dia mengatakan namanya hari ini...
+00:32:14,391 --> 00:32:16,142
+<font color="yellow">...kau akan hidup kembali.</font>
 
 248
-00:32:43,190 --> 00:32:44,660
-Dia sedikit lebih muda...
+00:32:21,440 --> 00:32:23,566
+<font color="yellow">Aku pernah melihatnya terjadi.</font>
 
 249
-00:32:45,160 --> 00:32:46,150
-dari anakmu.
+00:32:28,822 --> 00:32:30,823
+<font color="yellow">Ayolah.</font>
 
 250
-00:32:46,830 --> 00:32:47,940
-Dan dia dengan ibunya?
+00:32:38,165 --> 00:32:41,792
+<font color="yellow">Apa Carl itu putramu?</font>
 
 251
-00:32:50,190 --> 00:32:51,380
-Aku harap begitu.
+00:32:42,836 --> 00:32:46,172
+<font color="yellow">Kau memanggil namanya
+hari ini.</font>
 
 252
-00:32:53,230 --> 00:32:55,460
-- Ayah?
-- Ya?
+00:32:47,424 --> 00:32:51,135
+<font color="yellow">Dia lebih kecil dari putramu.</font>
 
 253
-00:32:57,100 --> 00:32:58,410
-Apakah kau tanyakan kepadanya?
+00:32:51,303 --> 00:32:52,928
+<font color="yellow">Dan dia bersama ibunya?</font>
 
 254
-00:33:01,890 --> 00:33:02,970
-Luka tembakmu...
+00:32:54,890 --> 00:32:56,515
+<font color="yellow">Kuharap begitu.</font>
 
 255
-00:33:03,490 --> 00:33:05,500
-Kami punya sedikit taruhan.
-Anakku bilang kau adalah...
+00:32:56,683 --> 00:32:58,267
+<font color="yellow">Ayah.</font>
 
 256
-00:33:06,030 --> 00:33:07,640
-perampok bank...
+00:33:01,480 --> 00:33:03,189
+<font color="yellow">Ayah sudah tanyakan padanya?</font>
 
 257
-00:33:09,050 --> 00:33:10,290
-Ya...
+00:33:05,275 --> 00:33:07,276
+<font color="yellow">Luka tembakmu itu...</font>
 
 258
-00:33:11,080 --> 00:33:14,820
-Itulah aku. Mematikan seperti Dillinger.
-Kapow.
+00:33:07,444 --> 00:33:09,070
+<font color="yellow">...kami saling bertaruh.</font>
 
 259
-00:33:15,720 --> 00:33:17,170
-Sheriff deputi.
+00:33:09,237 --> 00:33:12,156
+<font color="yellow">Putraku berkata bahwa
+kau adalah perampok bank.</font>
 
 260
-00:33:18,980 --> 00:33:19,770
-Aha.
+00:33:13,867 --> 00:33:16,410
+<font color="yellow">Ya, itulah aku...</font>
 
 261
-00:33:23,550 --> 00:33:25,490
-Hei, tidak apa, ayah di sini.
+00:33:16,578 --> 00:33:18,663
+<font color="yellow">...perampok bank yang
+paling berbahaya.</font>
 
 262
-00:33:25,780 --> 00:33:26,860
-Bukan apa-apa.
+00:33:20,259 --> 00:33:22,166
+<font color="yellow">Deputi sheriff.</font>
 
 263
-00:33:27,710 --> 00:33:30,400
-Salah satu dari mereka pasti menubruk mobil...
+00:33:28,298 --> 00:33:30,049
+<font color="yellow">Tak apa-apa.
+Ayah di sini.</font>
 
 264
-00:33:30,790 --> 00:33:33,900
-- Kau yakin?
-- Terjadi sekali sebelumnya.
+00:33:30,217 --> 00:33:31,967
+<font color="yellow">Bukan apa-apa.</font>
 
 265
-00:33:35,050 --> 00:33:36,790
-Mati beberapa menit.
+00:33:32,135 --> 00:33:35,012
+<font color="yellow">Salah satu dari mereka
+pasti menabrak mobil.</font>
 
 266
-00:33:38,910 --> 00:33:40,390
-Matikan cahayanya, Dwayne.
+00:33:35,180 --> 00:33:38,182
+<font color="yellow">- Kau yakin?
+- Pernah terjadi sebelumnya.</font>
 
 267
-00:33:54,660 --> 00:33:56,590
-Itu yang biru, di jalan.
+00:33:38,350 --> 00:33:41,352
+<font color="yellow">Ini akan berlangsung selama
+beberapa menit.</font>
 
 268
-00:33:57,280 --> 00:33:58,890
-Yang sama seperti waktu terakhir.
+00:33:43,480 --> 00:33:45,022
+<font color="yellow">Matikan lampunya, Duane.</font>
 
 269
-00:33:59,530 --> 00:34:01,010
-Kurasa kita baik saja.
+00:33:48,091 --> 00:33:56,676
+<font color="yellow">--- Penerjemah: Rizal Adam ---
+http://rizaladam.wordpress.com</font>
 
 270
-00:34:04,320 --> 00:34:05,410
-Kebisingan itu...
+00:33:58,829 --> 00:34:01,122
+<font color="yellow">Yang berwarna biru di jalan...</font>
 
 271
-00:34:05,740 --> 00:34:07,220
-Akankah membawa lebih
-banyak dari mereka?
+00:34:01,289 --> 00:34:03,249
+<font color="yellow">...mobil yang sama dengan
+yang terakhir kalinya.</font>
 
 272
-00:34:07,970 --> 00:34:09,390
-Tak ada yang bisa dilakukan sekarang.
+00:34:03,417 --> 00:34:05,543
+<font color="yellow">Kurasa kita akan
+baik-baik saja.</font>
 
 273
-00:34:10,780 --> 00:34:12,380
-Hanya harus tunggu sampai pagi.
+00:34:08,088 --> 00:34:11,757
+<font color="yellow">Suara itu tak akan mengundang
+lebih banyak dari mereka?</font>
 
 274
-00:34:17,430 --> 00:34:18,430
-Dia ada di sini.
+00:34:11,925 --> 00:34:14,719
+<font color="yellow">Tak ada yang bisa kita
+lakukan sekarang.</font>
 
 275
-00:34:19,660 --> 00:34:21,640
-Jangan lihat.
-Pergi dari jendela.
+00:34:14,886 --> 00:34:17,179
+<font color="yellow">Kita tunggu saja sampai pagi.</font>
 
 276
-00:34:23,550 --> 00:34:25,210
-Kubilang pergi! Ayo!
+00:34:21,400 --> 00:34:22,601
+<font color="yellow">Dia ada di sini.</font>
 
 277
-00:34:33,310 --> 00:34:35,170
-Ayolah, tenang.
+00:34:22,769 --> 00:34:26,147
+<font color="yellow">Jangan melihatnya.
+Menjauhlah dari jendela.</font>
 
 278
-00:34:57,410 --> 00:35:00,600
-Tak apa-apa, ini... menangislah di bantal.
+00:34:28,191 --> 00:34:29,900
+<font color="yellow">Ayah bilang pergilah.
+Ayo.</font>
 
 279
-00:35:00,720 --> 00:35:01,940
-Bisakah kau ingat?
+00:34:35,355 --> 00:34:37,116
+<font color="yellow">Duane, diamlah.</font>
 
 280
-00:35:42,340 --> 00:35:43,350
-Dia, eh...
+00:34:37,284 --> 00:34:39,243
+<font color="yellow">Ayolah.
+Diamlah sekarang.</font>
 
 281
-00:35:45,850 --> 00:35:49,000
-Dia meninggal di ruangan
-lain, di tempat tidur itu...
+00:35:01,558 --> 00:35:03,851
+<font color="yellow">Tak apa-apa.
+Ini.</font>
 
 282
-00:35:51,460 --> 00:35:54,450
-Tak ada yang bisa kulakukan di sini...
+00:35:04,019 --> 00:35:06,604
+<font color="yellow">Menangislah di bantal.
+Kau ingat?</font>
 
 283
-00:35:55,030 --> 00:35:56,410
-Demam itu, teman...
+00:35:46,853 --> 00:35:49,146
+<font color="yellow">Dia...</font>
 
 284
-00:35:57,980 --> 00:36:00,220
-Kulitnya memanas seperti tungku...
+00:35:50,398 --> 00:35:53,692
+<font color="yellow">Dia mati di kamar lain di tempat
+tidur yang ada di sana.</font>
 
 285
-00:36:07,520 --> 00:36:11,160
-Aku seharusnya membunuhnya,
-aku tahu itu, tapi...
+00:35:56,112 --> 00:35:58,948
+<font color="yellow">Tak ada yang bisa
+aku lakukan.</font>
 
 286
-00:36:13,690 --> 00:36:14,450
-kau tahu...
+00:35:59,115 --> 00:36:01,408
+<font color="yellow">Demam itu...</font>
 
 287
-00:36:14,730 --> 00:36:16,290
-Aku hanya tidak memilikinya
-dalam diriku...
+00:36:01,576 --> 00:36:05,120
+<font color="yellow">Kulitnya pucat,
+demamnya sangat tinggi.</font>
 
 288
-00:36:20,740 --> 00:36:23,010
-Dia adalah ibu dari anakku.
+00:36:10,460 --> 00:36:11,836
+<font color="yellow">Aku seharusnya...</font>
 
 289
-00:36:49,160 --> 00:36:51,190
-Apa kau yakin mereka mati.
+00:36:12,003 --> 00:36:14,338
+<font color="yellow">Aku seharusnya mematikannya.</font>
 
 290
-00:36:51,890 --> 00:36:54,320
-Mereka harus ditanya,
-setidaknya satu kali lagi.
+00:36:14,506 --> 00:36:16,048
+<font color="yellow">Aku tahu itu, tapi aku...</font>
 
 291
-00:36:54,810 --> 00:36:58,390
-Mereka mati.
-Kecuali untuk sesuatu di otak.
+00:36:18,009 --> 00:36:21,011
+<font color="yellow">Kau tahu?
+Aku tak punya keberanian.</font>
 
 292
-00:36:58,810 --> 00:37:00,360
-Itu sebabnya harus dikepalanya.
+00:36:25,725 --> 00:36:27,810
+<font color="yellow">Dia ibu dari anakku.</font>
 
 293
-00:37:25,380 --> 00:37:26,520
-Kau baik-baik saja?
+00:36:53,837 --> 00:36:55,713
+<font color="yellow">Kita yakin mereka sudah mati?</font>
 
 294
-00:37:28,530 --> 00:37:29,660
-Butuh beberapa saat...
+00:36:55,881 --> 00:36:58,757
+<font color="yellow">Aku harus bertanya paling
+tidak satu kali lagi.</font>
 
 295
-00:37:35,620 --> 00:37:36,790
-Mereka hidup.
+00:36:58,925 --> 00:37:02,887
+<font color="yellow">Mereka mati kecuali sesuatu
+di otak mereka.</font>
 
 296
-00:37:36,910 --> 00:37:38,470
-Istri dan anakku.
+00:37:03,054 --> 00:37:05,222
+<font color="yellow">Karena itulah harus ditembak
+di kepalanya.</font>
 
 297
-00:37:38,940 --> 00:37:40,470
-Setidaknya mereka hidup
-saat mereka pergi.
+00:37:30,081 --> 00:37:31,749
+<font color="yellow">Kau tak apa-apa?</font>
 
 298
-00:37:40,590 --> 00:37:41,960
-Bagaimana kau tahu?
+00:37:33,376 --> 00:37:35,753
+<font color="yellow">Aku perlu waktu menyendiri.</font>
 
 299
-00:37:42,930 --> 00:37:46,200
-- Dari tampilan tempat ini...
-- Kutemukan laci kosong di kamar tidur.
+00:37:40,592 --> 00:37:43,052
+<font color="yellow">Istri dan putraku masih hidup.</font>
 
 300
-00:37:46,780 --> 00:37:48,480
-Mereka mengemas beberapa pakaian.
-Tidak banyak.
+00:37:43,219 --> 00:37:45,054
+<font color="yellow">Paling tidak begitulah
+saat mereka pergi.</font>
 
 301
-00:37:48,840 --> 00:37:49,960
-Tapi cukup untuk bepergian.
+00:37:45,221 --> 00:37:46,597
+<font color="yellow">Bagaimana kau bisa tahu?</font>
 
 302
-00:37:50,500 --> 00:37:53,450
-Kau tahu siapa pun bisa saja masuk ke sini
-dan mencuri pakaian, kan?
+00:37:46,765 --> 00:37:48,599
+<font color="yellow">Melihat keadaan tempat ini...</font>
 
 303
-00:37:54,400 --> 00:37:56,180
-Kau melihat foto berbingkai di dinding?
+00:37:48,767 --> 00:37:51,268
+<font color="yellow">Aku menemukan laci-laci
+kosong di kamar tidur.</font>
 
 304
-00:37:57,850 --> 00:38:01,020
-Begitu juga aku. Beberapa pencuri
-acak mengambil itu juga, menurutmu?
+00:37:51,436 --> 00:37:54,939
+<font color="yellow">Mereka membawa beberapa pakaian,
+tak banyak tapi cukup untuk bepergian.</font>
 
 305
-00:38:05,240 --> 00:38:08,150
-Foto albumku, foto keluarga, semua hilang.
+00:37:55,106 --> 00:37:58,275
+<font color="yellow">Kau tahu siapa saja bisa masuk
+dan mencuri pakaian, 'kan?</font>
 
 306
-00:38:09,740 --> 00:38:11,080
-Album foto...
+00:37:58,443 --> 00:38:00,945
+<font color="yellow">Kau melihat bingkai-bingkai
+foto di dinding?</font>
 
 307
-00:38:17,260 --> 00:38:18,200
-Istriku...
+00:38:02,280 --> 00:38:03,572
+<font color="yellow">Aku juga tak melihatnya.</font>
 
 308
-00:38:19,330 --> 00:38:20,440
-Hal yang sama...
+00:38:03,740 --> 00:38:05,616
+<font color="yellow">Menurutmu pencuri juga
+mengambilnya?</font>
 
 309
-00:38:21,700 --> 00:38:25,740
-Disinilah aku, mengepak barang-barang,
-dia meraih album foto....
+00:38:09,871 --> 00:38:13,332
+<font color="yellow">Album foto kami, foto-foto
+keluarga. Semuanya menghilang.</font>
 
 310
-00:38:30,700 --> 00:38:32,200
-Mereka di Atlanta, aku yakin.
+00:38:14,501 --> 00:38:16,023
+<font color="yellow">Album foto.</font>
 
 311
-00:38:33,180 --> 00:38:34,360
-Itu benar.
+00:38:22,133 --> 00:38:25,678
+<font color="yellow">Istriku juga sama.</font>
 
 312
-00:38:35,890 --> 00:38:38,170
-- Kenapa disana?
-- Tempat pengungsi menetap.
+00:38:25,845 --> 00:38:27,888
+<font color="yellow">Aku mengemas perlengkapan
+bertahan hidup...</font>
 
 313
-00:38:38,210 --> 00:38:40,570
-Yang besar mereka bilang,
-sebelum siaran berhenti.
+00:38:28,056 --> 00:38:30,474
+<font color="yellow">...dia mengambil album foto...</font>
 
 314
-00:38:41,440 --> 00:38:44,080
-Perlindungan militer,
-makanan, tempat tinggal...
+00:38:35,105 --> 00:38:37,439
+<font color="yellow">Aku yakin mereka di Atlanta.</font>
 
 315
-00:38:44,670 --> 00:38:46,180
-Mereka bilang orang-orang
-untuk pergi ke sana.
+00:38:37,607 --> 00:38:39,775
+<font color="yellow">Benar.</font>
 
 316
-00:38:46,760 --> 00:38:47,940
-Dikatakan paling aman.
+00:38:39,943 --> 00:38:42,486
+<font color="yellow">- Kenapa di sana?
+- Pusat pengungsian.</font>
 
 317
-00:38:48,330 --> 00:38:50,070
-Ditambah mereka punya tempat penyakit.
+00:38:42,654 --> 00:38:45,614
+<font color="yellow">Kabarnya pusat pengungsian yang
+besar sebelum siaran terhenti.</font>
 
 318
-00:38:50,470 --> 00:38:51,920
-Pusat Pengendalian Penyakit.
+00:38:45,782 --> 00:38:48,993
+<font color="yellow">Perlindungan militer, makanan,
+tempat tinggal.</font>
 
 319
-00:38:52,250 --> 00:38:55,060
-Dibilang kalau mereka bekerja
-bagaimana cara mengatasi hal ini.
+00:38:49,160 --> 00:38:51,036
+<font color="yellow">Mereka suruh orang-orang
+untuk pergi ke sana.</font>
 
 320
-00:39:22,420 --> 00:39:25,080
-Jalur gas telah turun
-untuk mungkin sebulan.
+00:38:51,204 --> 00:38:52,788
+<font color="yellow">Katanya tempat itu aman.</font>
 
 321
-00:39:25,540 --> 00:39:27,580
-Stasiun memiliki sistem propana sendiri.
+00:38:52,956 --> 00:38:54,957
+<font color="yellow">Selain itu mereka punya
+tempat penyakit.</font>
 
 322
-00:39:30,460 --> 00:39:31,810
-Pilonnya masih menyala.
+00:38:55,125 --> 00:38:56,917
+<font color="yellow">Pusat Pengendalian Penyakit.</font>
 
 323
-00:39:35,460 --> 00:39:36,790
-Oh, Tuhanku.
+00:38:57,085 --> 00:39:00,045
+<font color="yellow">Katanya mereka sedang berusaha
+menyelesaikan masalah ini.</font>
 
 324
-00:39:36,910 --> 00:39:38,680
-Air panas!
+00:39:27,198 --> 00:39:29,825
+<font color="yellow">Pipa gas mungkin sudah
+tak berfungsi selama sebulan.</font>
 
 325
-00:39:38,940 --> 00:39:40,970
-- Whoo!
-- Itu terasa enak, kan?
+00:39:29,993 --> 00:39:32,536
+<font color="yellow">Stasiun gas punya cadangan
+gas sendiri.</font>
 
 326
-00:39:52,240 --> 00:39:56,030
-Dwayne...
-kamar ganti di belakang sana.
+00:39:35,123 --> 00:39:36,707
+<font color="yellow">Masih berfungsi.</font>
 
 327
-00:39:57,130 --> 00:39:58,360
-Apa yang kau katakan, Dwayne?
+00:39:40,151 --> 00:39:41,336
+<font color="yellow">Astaga.</font>
 
 328
-00:39:59,330 --> 00:40:00,270
-Terima kasih.
+00:39:41,504 --> 00:39:43,210
+<font color="yellow">Air panas!</font>
 
 329
-00:40:01,590 --> 00:40:02,710
-Mhm.
+00:39:43,715 --> 00:39:45,591
+<font color="yellow">Rasanya enak, 'kan?</font>
 
 330
-00:40:06,190 --> 00:40:07,760
-Atlanta kedengarannya
-seperti hal yang baik.
+00:39:49,095 --> 00:39:51,722
+<font color="yellow">Ya. Aku basah.
+Rasakan itu. Apa?</font>
 
 331
-00:40:08,850 --> 00:40:10,520
-Aman pula. Orang-orang...
+00:39:55,560 --> 00:39:58,937
+<font color="yellow">Duane. Ruang ganti
+ada di belakang sana.</font>
 
 332
-00:40:12,090 --> 00:40:13,290
-Itulah di mana kita sedang tuju.
+00:40:00,398 --> 00:40:02,066
+<font color="yellow">Kau bilang apa, Duane?</font>
 
 333
-00:40:14,380 --> 00:40:17,070
-Hal-hal jadi gila.
-Teman, kau tak akan percaya.
+00:40:02,233 --> 00:40:03,984
+<font color="yellow">Terima kasih.</font>
 
 334
-00:40:17,190 --> 00:40:18,090
-Kepanikan...
+00:40:08,406 --> 00:40:10,949
+<font color="yellow">Atlanta kedengarannya seperti
+tawaran bagus.</font>
 
 335
-00:40:18,150 --> 00:40:20,760
-Jalan-jalan tak akan siap menjadi aktif,
-dan kemudian kita akan...
+00:40:12,035 --> 00:40:14,369
+<font color="yellow">Selain itu lebih aman.</font>
 
 336
-00:40:22,940 --> 00:40:23,990
-Istriku...
+00:40:14,537 --> 00:40:16,580
+<font color="yellow">Ke sanalah tadinya kami
+akan menuju.</font>
 
 337
-00:40:24,860 --> 00:40:26,690
-tidak bisa bepergian.
-tidak, dengan lukanya,
+00:40:16,748 --> 00:40:18,749
+<font color="yellow">Semuanya menjadi kacau.</font>
 
 338
-00:40:26,810 --> 00:40:28,450
-jadi kami harus menemukan
-tempat untuk bersembunyi.
+00:40:18,917 --> 00:40:20,876
+<font color="yellow">Kau takkan percaya dengan
+kepanikan yang terjadi.</font>
 
 339
-00:40:29,470 --> 00:40:30,790
-Dan setelah dia meninggal...
+00:40:21,044 --> 00:40:22,920
+<font color="yellow">Jalanan tak cukup menampungnya.</font>
 
 340
-00:40:33,980 --> 00:40:35,470
-Kami hanya tinggal berdiam diri.
+00:40:23,088 --> 00:40:24,671
+<font color="yellow">Kemudian...</font>
 
 341
-00:40:38,410 --> 00:40:40,240
-Kurasa kita hanya membeku di tempat.
+00:40:26,216 --> 00:40:28,592
+<font color="yellow">...istriku tak bisa pergi...</font>
 
 342
-00:40:42,170 --> 00:40:43,420
-Rencana melanjutkan?
+00:40:28,760 --> 00:40:31,428
+<font color="yellow">...tidak dengan lukanya. Jadi kami
+harus temukan tempat bersembunyi.</font>
 
 343
-00:40:47,240 --> 00:40:49,090
-Belum ada pikiran sampai itu.
+00:40:31,596 --> 00:40:34,014
+<font color="yellow">Lalu setelah dia mati...</font>
 
 344
-00:40:57,710 --> 00:40:59,230
-Ada banyak yang hilang.
+00:40:36,935 --> 00:40:39,186
+<font color="yellow">...kami terus bersembunyi.</font>
 
 345
-00:41:00,650 --> 00:41:02,160
-Ayah, bisakah aku belajar menembak?
+00:40:41,231 --> 00:40:43,482
+<font color="yellow">Kurasa kami hanya
+membeku di tempat ini.</font>
 
 346
-00:41:02,280 --> 00:41:03,750
-Aku cukup tua.
+00:40:45,318 --> 00:40:47,277
+<font color="yellow">Ada rencana untuk pergi?</font>
 
 347
-00:41:03,870 --> 00:41:05,220
-Tentu kau akan belajar.
+00:40:50,573 --> 00:40:52,866
+<font color="yellow">Aku belum memikirkannya.</font>
 
 348
-00:41:05,340 --> 00:41:06,520
-Tapi, kita akan melakukannya
-dengan hati-hati,
+00:41:00,875 --> 00:41:02,835
+<font color="yellow">Banyak yang hilang.</font>
 
 349
-00:41:06,521 --> 00:41:07,700
-mengajarimu untuk menghormati senjata.
+00:41:03,962 --> 00:41:05,379
+<font color="yellow">Ayah, boleh aku belajar
+menembak?</font>
 
 350
-00:41:07,820 --> 00:41:09,630
-Itu benar. Ini bukan mainan.
+00:41:05,547 --> 00:41:08,132
+<font color="yellow">- Aku sudah cukup dewasa.
+- Ya, kau akan belajar...</font>
 
 351
-00:41:09,980 --> 00:41:11,595
-Kau menarik pelatuk, kau
-harus bersungguh-sungguh.
+00:41:08,299 --> 00:41:10,676
+<font color="yellow">...tapi harus dilakukan dengan hati-hati,
+mengajarimu menghormati senjata.</font>
 
 352
-00:41:11,596 --> 00:41:13,210
-Selalu ingat itu, Dwayne.
+00:41:10,844 --> 00:41:12,845
+<font color="yellow">Benar.
+Itu bukan mainan.</font>
 
 353
-00:41:13,330 --> 00:41:14,270
-Ya, Pak.
+00:41:13,012 --> 00:41:14,638
+<font color="yellow">Kau tarik pelatuknya, kau harus
+sungguh-sungguh.</font>
 
 354
-00:41:16,820 --> 00:41:17,700
-Ini.
+00:41:14,806 --> 00:41:16,306
+<font color="yellow">Selalu ingat itu, Duane.</font>
 
 355
-00:41:19,390 --> 00:41:20,350
-Masukkan itu.
+00:41:16,474 --> 00:41:17,641
+<font color="yellow">Baik, Pak.</font>
 
 356
-00:41:25,720 --> 00:41:27,070
-Ambil ini.
+00:41:19,853 --> 00:41:23,480
+<font color="yellow">Ini. Bawalah.</font>
 
 357
-00:41:27,190 --> 00:41:28,400
-Tidak mewah.
+00:41:28,736 --> 00:41:31,113
+<font color="yellow">Kau bawa yang itu.
+Bukan sesuatu yang mewah.</font>
 
 358
-00:41:28,870 --> 00:41:30,320
-Teropongnya akurat.
+00:41:31,281 --> 00:41:33,282
+<font color="yellow">Teleskopnya akurat.</font>
 
 359
-00:41:43,210 --> 00:41:45,720
-Hemat amunisimu.
-Habis lebih cepat dari yang kau kira.
+00:41:46,087 --> 00:41:47,921
+<font color="yellow">Hemat amunisimu.</font>
 
 360
-00:41:45,721 --> 00:41:48,230
-Terutama saat latihan target.
+00:41:48,089 --> 00:41:49,715
+<font color="yellow">Pelurunya akan cepat habis
+dari yang kau kira...</font>
 
 361
-00:41:49,770 --> 00:41:50,650
-Dwayne.
+00:41:49,883 --> 00:41:51,633
+<font color="yellow">...khususnya saat latihan
+menembak sasaran.</font>
 
 362
-00:41:50,980 --> 00:41:52,710
-- Ya?
-- Bawa ini ke mobil.
+00:41:53,011 --> 00:41:54,928
+<font color="yellow">- Duane.
+- Ya?</font>
 
 363
-00:41:54,310 --> 00:41:55,770
-Kau yakin tidak mau ikut?
+00:41:55,096 --> 00:41:56,680
+<font color="yellow">- Bawa ini ke mobil.
+- Baik.</font>
 
 364
-00:41:56,740 --> 00:41:57,960
-Beberapa hari lagi...
+00:41:56,848 --> 00:41:58,849
+<font color="yellow">Kau yakin tak mau ikut?</font>
 
 365
-00:41:58,510 --> 00:41:59,920
-Pada saatnya, Dwayne akan
-tahu bagaimana untuk
+00:42:00,185 --> 00:42:03,145
+<font color="yellow">Beberapa hari lagi. Saat itu,
+Duane akan tahu cara menembak...</font>
 
 366
-00:41:59,921 --> 00:42:01,330
-menembak dan aku tidak
-akan begitu kaku.
+00:42:03,313 --> 00:42:04,980
+<font color="yellow">...dan aku tak akan
+meleset saat menembak.</font>
 
 367
-00:42:08,920 --> 00:42:10,150
-Kau punya satu baterai.
+00:42:11,404 --> 00:42:14,031
+<font color="yellow">Kau punya satu baterai.</font>
 
 368
-00:42:11,020 --> 00:42:13,480
-Akan kuaktifkan milikku beberapa
-menit setiap hari pada waktu fajar.
+00:42:14,199 --> 00:42:16,533
+<font color="yellow">Aku akan nyalakan radioku
+selama beberapa menit setiap pagi.</font>
 
 369
-00:42:13,600 --> 00:42:16,060
-Kau sampai di sana, itulah
-bagaimana kau menemukanku.
+00:42:16,701 --> 00:42:18,994
+<font color="yellow">Nyalakan radionya,
+begitulah kau akan menemukanku.</font>
 
 370
-00:42:16,720 --> 00:42:19,050
-- Pikirlah kedepan.
-- Tak mampu untuk tidak.
+00:42:19,162 --> 00:42:22,331
+<font color="yellow">- Kau berpikiran ke depan.
+- Tak sanggup untuk tak kulakukan.</font>
 
 371
-00:42:19,360 --> 00:42:22,070
-- Tidak lagi.
-- Dengar, satu hal lagi.
+00:42:22,498 --> 00:42:25,000
+<font color="yellow">- Tidak bisa lagi.
+- Dengar, ada satu hal.</font>
 
 372
-00:42:22,510 --> 00:42:24,470
-Mereka mungkin tidak tampak
-seperti banyak satu per satu...
+00:42:25,168 --> 00:42:27,878
+<font color="yellow">Mereka tak masalah bila sendirian...</font>
 
 373
-00:42:25,050 --> 00:42:26,890
-namun dalam kelompok
-semua gusar dan lapar...
+00:42:28,046 --> 00:42:29,963
+<font color="yellow">...namun bila berkelompok,
+semuanya berkerumun dan lapar.</font>
 
 374
-00:42:27,520 --> 00:42:29,930
-- Berhati-hatilah.
-- Kau juga.
+00:42:30,131 --> 00:42:33,050
+<font color="yellow">- Kawan, berhati-hatilah.
+- Kalian juga.</font>
 
 375
-00:42:32,470 --> 00:42:33,540
-Kau orang baik, Rick.
+00:42:35,720 --> 00:42:38,847
+<font color="yellow">Kau orang yang baik, Rick.
+Semoga kau temukan istri dan putramu.</font>
 
 376
-00:42:34,150 --> 00:42:35,660
-Kuharap kau temukan istri dan anakmu.
+00:42:41,643 --> 00:42:43,227
+<font color="yellow">Sampai jumpa, Duane.</font>
 
 377
-00:42:38,520 --> 00:42:39,750
-Sampai bertemu denganmu, Dwayne.
+00:42:43,394 --> 00:42:45,437
+<font color="yellow">- Jaga ayahmu.
+- Baik, Pak.</font>
 
 378
-00:42:40,740 --> 00:42:42,760
-- Jagalah orang tuamu.
-- Ya, Pak.
+00:42:56,741 --> 00:42:58,909
+<font color="yellow">Leon Basset?</font>
 
 379
-00:42:53,630 --> 00:42:55,710
-Leon Basset.
+00:43:02,747 --> 00:43:04,248
+<font color="yellow">Aku tak banyak memikirkannya.</font>
 
 380
-00:42:59,830 --> 00:43:01,200
-Tidak berpikir banyak soal dia.
+00:43:04,415 --> 00:43:06,750
+<font color="yellow">Dia ceroboh dan bodoh, tapi...</font>
 
 381
-00:43:01,730 --> 00:43:03,240
-Ceroboh dan bodoh, tapi...
+00:43:08,086 --> 00:43:09,836
+<font color="yellow">Aku tak bisa meninggalkannya
+seperti ini.</font>
 
 382
-00:43:04,140 --> 00:43:06,290
-tak bisa kutinggalkan dia seperti ini.
+00:43:12,882 --> 00:43:14,591
+<font color="yellow">Kau tahu mereka akan
+mendengar bunyi tembakan.</font>
 
 383
-00:43:10,110 --> 00:43:11,430
-Kau tahu, mereka akan
-mendengar tembakan...
+00:43:14,759 --> 00:43:17,094
+<font color="yellow">Jangan sampai kita ada
+di sini saat mereka muncul.</font>
 
 384
-00:43:11,860 --> 00:43:13,285
-Mari tidak berada di
-sini saat mereka muncul.
+00:43:17,262 --> 00:43:19,721
+<font color="yellow">Ayo pergi, Nak.
+Ayo.</font>
 
 385
-00:43:13,286 --> 00:43:14,710
-Ayo pergi, nak.
+00:44:52,231 --> 00:44:54,358
+<font color="yellow">Baca buku komikmu.</font>
 
 386
-00:43:15,190 --> 00:43:16,070
-Ayolah.
+00:44:54,525 --> 00:44:56,234
+<font color="yellow">Ayah akan naik ke atas.</font>
 
 387
-00:44:49,480 --> 00:44:51,220
-Bacalah buku-buku komikmu
-sementara waktu.
+00:46:58,149 --> 00:47:00,442
+<font color="yellow">- Ayah?
+- Tak apa-apa, Duane!</font>
 
 388
-00:44:51,670 --> 00:44:53,070
-Ayah akan ada di atas.
+00:47:00,610 --> 00:47:03,528
+<font color="yellow">Tetaplah di situ, Nak.
+Jangan naik kemari.</font>
 
 389
-00:46:55,310 --> 00:46:57,490
-- Ayah?
-- Tidak apa-apa, Dwayne.
+00:47:30,014 --> 00:47:31,598
+<font color="yellow">Jenny.</font>
 
 390
-00:46:58,040 --> 00:47:00,310
-Kau tetap di sana, nak.
-Jangan datang ke sini.
+00:47:32,975 --> 00:47:34,684
+<font color="yellow">Ayo, Sayang.</font>
 
 391
-00:47:30,490 --> 00:47:31,800
-Ayo, sayang.
+00:48:05,383 --> 00:48:07,551
+<font color="yellow">Maaf ini terjadi padamu.</font>
 
 392
-00:48:02,710 --> 00:48:05,510
-Aku minta maaf ini terjadi padamu.
+00:49:02,440 --> 00:49:04,190
+<font color="yellow">Ayolah.</font>
 
 393
-00:48:59,590 --> 00:49:01,300
-Ayo, ayolah.
+00:49:09,905 --> 00:49:11,489
+<font color="yellow">Ayolah.</font>
 
 394
-00:49:54,370 --> 00:49:56,200
-Menyiarkan di saluran darurat.
+00:49:11,657 --> 00:49:13,158
+<font color="yellow">Ya.</font>
 
 395
-00:49:56,320 --> 00:49:58,910
-Kami akan mendekati
-Atlanta di jalan raya 85.
+00:49:56,476 --> 00:49:58,620
+<font color="yellow">Disiarkan dari saluran darurat.</font>
 
 396
-00:50:00,090 --> 00:50:02,120
-Siapa saja mendengar, silakan merespon.
+00:49:58,788 --> 00:50:01,331
+<font color="yellow">Akan mendekati Atlanta
+melalui Jalan Raya 85.</font>
 
 397
-00:50:04,150 --> 00:50:06,190
-Halo. Halo.
+00:50:02,541 --> 00:50:04,376
+<font color="yellow">Siapa saja yang mendengarkan,
+tolong menjawab.</font>
 
 398
-00:50:06,310 --> 00:50:07,950
-Bisakah siapa pun mendengar suaraku?
+00:50:06,545 --> 00:50:08,546
+<font color="yellow">Halo.</font>
 
 399
-00:50:10,740 --> 00:50:14,240
-Siapa saja di luar sana?
-Siapapun mendengarku, silakan merespon.
+00:50:08,714 --> 00:50:10,674
+<font color="yellow">Apa ada yang bisa
+mendengar suaraku?</font>
 
 400
-00:50:16,510 --> 00:50:18,170
-Halo, bisakah kau mendengar suaraku?
+00:50:12,343 --> 00:50:14,177
+<font color="yellow">Ada orang di luar sana?</font>
 
 401
-00:50:18,580 --> 00:50:21,370
-Halo? Halo?
-Siapa pun bisa mendengar suaraku?
+00:50:14,345 --> 00:50:16,513
+<font color="yellow">Siapa saja yang mendengarku,
+tolong menjawab.</font>
 
 402
-00:50:23,080 --> 00:50:23,980
-Hei? Halo?
+00:50:18,974 --> 00:50:20,100
+<font color="yellow">Halo, kau bisa dengar
+suaraku?</font>
 
 403
-00:50:24,480 --> 00:50:26,130
-- Bisakah kau mendengar suaraku?
-- Ya, aku bisa mendengarmu.
+00:50:20,267 --> 00:50:23,812
+<font color="yellow">Halo. Apa ada orang
+yang bisa mendengar suaraku?</font>
 
 404
-00:50:26,250 --> 00:50:27,480
-Kau masuk. Ganti.
+00:50:24,939 --> 00:50:27,816
+<font color="yellow">- Hei. Halo?
+- Kau bisa dengar suaraku?</font>
 
 405
-00:50:28,180 --> 00:50:30,330
-Siapa saja yang dengar, silakan merespon.
+00:50:27,983 --> 00:50:29,859
+<font color="yellow">Ya, aku bisa mendengarmu.
+Suaramu terdengar. Ganti.</font>
 
 406
-00:50:30,710 --> 00:50:32,570
-Menyiarkan di saluran darurat.
+00:50:30,027 --> 00:50:32,862
+<font color="yellow">Jika siapa saja mendengar,
+tolong menjawab.</font>
 
 407
-00:50:32,840 --> 00:50:35,930
-Kami akan mendekati Atlanta
-di jalan raya 85.
+00:50:33,030 --> 00:50:35,031
+<font color="yellow">Disiarkan dari saluran darurat.</font>
 
 408
-00:50:36,050 --> 00:50:38,090
-Siapa saja mendengar, silakan merespon.
+00:50:35,199 --> 00:50:38,243
+<font color="yellow">Akan mendekati Atlanta
+melalui Jalan Raya 85.</font>
 
 409
-00:50:41,250 --> 00:50:42,950
-Kami hanya berada di luar kota.
+00:50:38,411 --> 00:50:40,782
+<font color="yellow">Jika siapa saja mendengar,
+tolong menjawab.</font>
 
 410
-00:50:43,860 --> 00:50:44,780
-Sialan.
+00:50:43,624 --> 00:50:45,709
+<font color="yellow">Kami ada di luar kota.</font>
 
 411
-00:50:45,450 --> 00:50:46,410
-Halo?
+00:50:45,876 --> 00:50:47,711
+<font color="yellow">Sial.</font>
 
 412
-00:50:47,000 --> 00:50:47,930
-Halo?
+00:50:47,878 --> 00:50:51,339
+<font color="yellow">Halo?
+Dia tak bisa mendengarku.</font>
 
 413
-00:50:48,560 --> 00:50:50,010
-Dia tidak bisa mendengarku.
-Aku tak bisa memperingatkan dia.
+00:50:51,507 --> 00:50:52,924
+<font color="yellow">- Aku tak bisa memperingatkannya.
+- Coba hubungi lagi.</font>
 
 414
-00:50:50,050 --> 00:50:51,050
-Cobalah untuk memanggilnya kembali.
+00:50:53,092 --> 00:50:56,052
+<font color="yellow">Ayo, Nak, kau tahu cara
+mengoperasikannya.</font>
 
 415
-00:50:51,390 --> 00:50:53,470
-Ayolah, nak. Kau yang tahu terbaik
-bagaimana benda ini bekerja,
+00:50:58,723 --> 00:51:01,307
+<font color="yellow">Halo. Apa orang yang memanggil
+masih mengudara?</font>
 
 416
-00:50:56,450 --> 00:50:58,940
-Halo, halo, apakah orang
-yang memanggil masih di sana?
+00:51:04,228 --> 00:51:05,687
+<font color="yellow">Ini Petugas Shane Walsh...</font>
 
 417
-00:51:02,240 --> 00:51:04,160
-Ini petugas Shane Walsh, memanggil
+00:51:05,855 --> 00:51:08,398
+<font color="yellow">...menghubungi orang tak dikenal.
+Tolong menjawab.</font>
 
 418
-00:51:04,161 --> 00:51:06,080
-orang yang tak diketahui,
-silakan merespon.
+00:51:14,447 --> 00:51:16,573
+<font color="yellow">Dia sudah pergi.</font>
 
 419
-00:51:12,710 --> 00:51:13,760
-Dia pergi.
+00:51:18,242 --> 00:51:20,326
+<font color="yellow">Ada yang lain.
+Bukan cuma kita.</font>
 
 420
-00:51:16,050 --> 00:51:18,160
-Ada orang lain.
-Bukan hanya kita.
+00:51:20,494 --> 00:51:21,953
+<font color="yellow">Kita tahu masih ada
+yang tersisa, 'kan?</font>
 
 421
-00:51:18,470 --> 00:51:20,830
-Ya, kita tahu akan ada, kan, itulah
-kenapa kita biarkan radio-nya nyala.
+00:51:22,121 --> 00:51:23,455
+<font color="yellow">Karena itulah kita biarkan
+radio menyala.</font>
 
 422
-00:51:21,670 --> 00:51:23,080
-Banyak hal yang bagus telah dilakukan.
+00:51:23,622 --> 00:51:25,123
+<font color="yellow">Ada banyak manfaatnya.</font>
 
 423
-00:51:23,790 --> 00:51:26,290
-Dan aku telah bilang selama seminggu,
-kita harus meletakkan tanda keluar di 85
+00:51:25,291 --> 00:51:27,000
+<font color="yellow">- Baiklah.
+- Aku sudah berkata selama seminggu...</font>
 
 424
-00:51:26,340 --> 00:51:27,780
-Memperingatkan orang menjauh dari kota.
+00:51:27,168 --> 00:51:30,170
+<font color="yellow">...kita harus letakkan tanda di Jalan
+85 agar orang tak pergi ke kota itu.</font>
 
 425
-00:51:28,210 --> 00:51:30,180
-Orang-orang tidak punya ide
-apa yang mereka masuk kedalamnya.
+00:51:30,337 --> 00:51:32,297
+<font color="yellow">Orang-orang tak tahu
+apa yang mereka hadapi.</font>
 
 426
-00:51:30,670 --> 00:51:32,140
-Kita tidak punya cukup waktu.
+00:51:32,465 --> 00:51:34,549
+<font color="yellow">Kita tak punya waktu.</font>
 
 427
-00:51:33,910 --> 00:51:35,210
-Kurasa kita perlu membuat waktu.
+00:51:35,926 --> 00:51:37,927
+<font color="yellow">Kurasa kita harus menyempatkan
+diri.</font>
 
 428
-00:51:35,600 --> 00:51:37,130
-Ya, itu, eh...
+00:51:38,095 --> 00:51:41,848
+<font color="yellow">Ya, itu kemewahan yang
+tak sanggup kita dapatkan.</font>
 
 429
-00:51:37,750 --> 00:51:39,240
-Itulah kemewahan yang kita tidak mampu.
+00:51:42,016 --> 00:51:44,434
+<font color="yellow">Kita bertahan hidup di sini.
+Hari demi hari.</font>
 
 430
-00:51:39,870 --> 00:51:42,080
-Kita bertahan di sini.
-Kita begitu hari ke hari.
+00:51:45,603 --> 00:51:47,604
+<font color="yellow">Menurutmu siapa yang harus pergi?</font>
 
 431
-00:51:43,280 --> 00:51:45,100
-Dan siapa yang akan kau
-usulkan untuk dikirim?
+00:51:47,772 --> 00:51:49,439
+<font color="yellow">Aku yang akan pergi.
+Berikan kendaraan untukku.</font>
 
 432
-00:51:45,220 --> 00:51:47,040
-Aku akan pergi. Beri aku kendaraan.
+00:51:49,607 --> 00:51:51,608
+<font color="yellow">Tak ada yang pergi sendirian.
+Kau tahu itu.</font>
 
 433
-00:51:47,160 --> 00:51:49,130
-Tidak ada yang pergi kemanapun
-sendirian, kau tahu itu.
+00:51:57,114 --> 00:51:58,656
+<font color="yellow">Ya, Pak.</font>
 
 434
-00:51:54,330 --> 00:51:55,740
-Ya, pak.
+00:51:58,824 --> 00:52:00,533
+<font color="yellow">Ayo duduk, Kawan.</font>
 
 435
-00:51:56,280 --> 00:51:59,680
-Hei, hei, hei, pergi dan duduklah, kawan.
-Kau baik saja. Ayo.
+00:52:00,701 --> 00:52:03,079
+<font color="yellow">Kau baik-baik saja. Ayo.
+Kau baik-baik saja.</font>
 
 436
-00:52:04,170 --> 00:52:05,270
-Tunggu, kau marah padaku?
+00:52:05,956 --> 00:52:07,665
+<font color="yellow">Kau kesal padaku?</font>
 
 437
-00:52:08,190 --> 00:52:09,280
-Marahlah padaku semua yang kau inginkan
+00:52:09,877 --> 00:52:12,962
+<font color="yellow">Kau bisa kesal padaku semaumu.
+Itu takkan mengubah apa pun.</font>
 
 438
-00:52:09,281 --> 00:52:10,370
-itu tak akan mengubah apa-apa.
+00:52:15,007 --> 00:52:16,800
+<font color="yellow">Aku takkan membiarkanmu
+dalam bahaya.</font>
 
 439
-00:52:12,700 --> 00:52:14,225
-Aku tidak menempatkanmu
-dalam bahaya, oke?
+00:52:16,967 --> 00:52:18,593
+<font color="yellow">Aku takkan membiarkannya
+untuk alasan apa pun.</font>
 
 440
-00:52:14,226 --> 00:52:15,750
-Aku tidak melakukannya untuk apa pun.
+00:52:18,761 --> 00:52:22,680
+<font color="yellow">Itu membuatmu ingin memukul
+kepalaku, tapi kuberi tahu kau...</font>
 
 441
-00:52:16,220 --> 00:52:19,670
-Jika itu membuatmu merasa seperti
-kadang-kadang kau ingin menamparku...
+00:52:22,848 --> 00:52:26,017
+<font color="yellow">...kau merasakan itu, ayo silahkan.
+Aku ada di sini. Ayo.</font>
 
 442
-00:52:19,790 --> 00:52:22,400
-Kalau begitu, kau merasa itu diperlukan,
-Silahkan saja. Aku di sini.
+00:52:27,978 --> 00:52:32,899
+<font color="yellow">Kau tak boleh pergi
+seperti itu tanpa persiapan.</font>
 
 443
-00:52:25,880 --> 00:52:28,220
-Kau tak bisa berjalan begitu saja,
+00:52:33,067 --> 00:52:36,069
+<font color="yellow">Dengar, kau tak mau melakukannya
+untuk diriku atau dirimu, tak apa-apa.</font>
 
 444
-00:52:28,460 --> 00:52:30,290
-Setengah marah.
+00:52:36,237 --> 00:52:39,364
+<font color="yellow">Namun lakukan itu
+untuk dirinya.</font>
 
 445
-00:52:30,740 --> 00:52:33,540
-Dengar, jika kau tak mau melakukannya
-demi diriku atau dirimu, tak apa-apa.
+00:52:39,532 --> 00:52:42,075
+<font color="yellow">Anak itu sudah mengalami
+banyak hal...</font>
 
 446
-00:52:33,590 --> 00:52:34,480
-Tapi...
+00:52:42,243 --> 00:52:45,036
+<font color="yellow">...dan dia tak akan kehilangan
+ibunya juga, kau setuju?</font>
 
 447
-00:52:35,430 --> 00:52:36,490
-Lakukanlah untuknya.
+00:52:46,163 --> 00:52:47,664
+<font color="yellow">Setuju?</font>
 
 448
-00:52:38,010 --> 00:52:39,680
-Anak itu telah melalui terlalu banyak.
+00:52:47,832 --> 00:52:49,666
+<font color="yellow">Aku ibu yang baik.</font>
 
 449
-00:52:40,880 --> 00:52:42,560
-Dan dia tidak kehilangan
-ibunya juga, ok?
+00:52:52,962 --> 00:52:55,004
+<font color="yellow">Katakan padaku kalau
+kau setuju.</font>
 
 450
-00:52:43,760 --> 00:52:44,620
-Oke.
+00:53:02,096 --> 00:53:03,847
+<font color="yellow">Itu tak sulit.</font>
 
 451
-00:52:46,080 --> 00:52:47,040
-Aku Ibu yang baik.
+00:53:04,658 --> 00:53:06,275
+<font color="yellow">Baiklah.</font>
 
 452
-00:52:50,930 --> 00:52:52,040
-Kau bilang padaku baik-baik saja.
+00:53:21,740 --> 00:53:23,366
+<font color="yellow">Ibu?</font>
 
 453
-00:52:59,450 --> 00:53:00,540
-Itu tidak sulit.
+00:53:26,996 --> 00:53:29,455
+<font color="yellow">Ada apa, Kawan?
+Dia ada di dalam. Ayo.</font>
 
 454
-00:53:04,440 --> 00:53:05,400
-Hei...
+00:53:31,208 --> 00:53:33,960
+<font color="yellow">Ibu tak ingin kau khawatir.</font>
 
 455
-00:53:19,980 --> 00:53:21,380
-Bu?
+00:53:34,128 --> 00:53:36,546
+<font color="yellow">Ibumu tak akan pergi
+ke mana-mana, mengerti?</font>
 
 456
-00:53:25,200 --> 00:53:27,000
-Halo, kawan? Dia di sana, pergilah.
+00:53:36,714 --> 00:53:39,173
+<font color="yellow">Ya?</font>
 
 457
-00:53:28,890 --> 00:53:29,890
-Hei.
+00:53:39,341 --> 00:53:41,301
+<font color="yellow">- Selesaikan tugasmu.
+- Baiklah.</font>
 
 458
-00:53:30,500 --> 00:53:33,000
-Aku tidak ingin kau khawatir.
-Ibumu tidak akan ke mana-mana.
+00:54:24,803 --> 00:54:26,429
+<font color="yellow">Halo?</font>
 
 459
-00:53:33,120 --> 00:53:34,070
-Oke?
+00:54:27,765 --> 00:54:30,266
+<font color="yellow">Petugas polisi ada
+di luar sini.</font>
 
 460
-00:53:34,850 --> 00:53:38,270
-- Ya? Pergi selesaikan tugasmu.
-- Oke.
+00:54:32,102 --> 00:54:34,228
+<font color="yellow">Boleh aku meminta bensin?</font>
 
 461
-00:54:22,450 --> 00:54:23,420
-Halo?
+00:54:43,030 --> 00:54:44,447
+<font color="yellow">Halo?</font>
 
 462
-00:54:25,610 --> 00:54:27,290
-Polisi di sini.
+00:54:48,327 --> 00:54:51,120
+<font color="yellow">Halo?</font>
 
 463
-00:54:30,040 --> 00:54:31,340
-Bisakah kuminta sedikit bensin?
+00:54:51,288 --> 00:54:53,539
+<font color="yellow">Ada orang di rumah?</font>
 
 464
-00:54:40,590 --> 00:54:41,630
-Halo?
+00:55:21,316 --> 00:55:24,631
+<font color="yellow">TUHAN AMPUNI KAMI</font>
 
 465
-00:54:47,560 --> 00:54:48,510
-Halo?
+00:56:40,129 --> 00:56:41,898
+<font color="yellow">Tenanglah.</font>
 
 466
-00:54:49,780 --> 00:54:50,770
-Ada orang di rumah?
+00:56:42,066 --> 00:56:43,399
+<font color="yellow">Aku tak akan menyakitimu.</font>
 
 467
-00:56:37,670 --> 00:56:39,130
-Tenanglah, tenang.
+00:56:43,567 --> 00:56:45,902
+<font color="yellow">Bukan hal seperti itu.</font>
 
 468
-00:56:39,800 --> 00:56:40,740
-Aku tak akan menyakitimu.
+00:56:47,321 --> 00:56:49,739
+<font color="yellow">Lebih menyerupai sebuah
+tawaran.</font>
 
 469
-00:56:41,720 --> 00:56:42,890
-Tidak seperti itu.
+00:56:51,075 --> 00:56:52,825
+<font color="yellow">Jarak Atlanta tak begitu
+jauh dari sini.</font>
 
 470
-00:56:45,430 --> 00:56:46,860
-Lebih mirip pinangan.
+00:56:52,993 --> 00:56:56,537
+<font color="yellow">Di sana aman. Ada makanan,
+tempat tinggal, orang-orang.</font>
 
 471
-00:56:48,870 --> 00:56:50,320
-Atlanta hanya menyusuri jalan raya.
+00:56:56,705 --> 00:56:58,790
+<font color="yellow">Aku yakin ada kuda
+yang lainnya juga.</font>
 
 472
-00:56:50,440 --> 00:56:51,500
-Itu aman di sana.
+00:57:00,959 --> 00:57:02,919
+<font color="yellow">Bagaimana kedengarannya?</font>
 
 473
-00:56:51,940 --> 00:56:56,270
-Makanan, tempat tinggal, orang-orang,
-kuda lainnya juga, aku yakin.
+00:57:03,087 --> 00:57:05,254
+<font color="yellow">Itu dia.
+Kuda yang pintar.</font>
 
 474
-00:56:58,150 --> 00:56:59,420
-Bagaimana kedengarannya?
+00:57:05,422 --> 00:57:08,382
+<font color="yellow">Kuda pintar.</font>
 
 475
-00:57:00,870 --> 00:57:02,610
-Ini dia. Anak baik.
+00:57:08,550 --> 00:57:10,802
+<font color="yellow">Sekarang ikutlah denganku.
+Ayo.</font>
 
 476
-00:57:04,820 --> 00:57:08,710
-Anak baik. Sekarang ikut aku.
-Ikutlah denganku.
+00:57:10,969 --> 00:57:12,845
+<font color="yellow">Ayo.</font>
 
 477
-00:57:20,380 --> 00:57:24,190
-Pelan-pelan saja, ok? Aku tidak 
-melakukan ini selama bertahun-tahun.
+00:57:13,013 --> 00:57:14,430
+<font color="yellow">Ayo.</font>
 
 478
-00:57:29,440 --> 00:57:34,990
-Tenang. Tenang, nak.
-Pelan-pelan...
+00:57:15,891 --> 00:57:17,600
+<font color="yellow">Kuda pintar.</font>
 
 479
-00:57:53,230 --> 00:57:55,510
-Ayo...
+00:57:22,439 --> 00:57:23,940
+<font color="yellow">Pelan-pelan, ya?</font>
 
 480
-00:59:47,080 --> 00:59:50,350
-Sabar. Itu cuma beberapa.
-Tak ada yang tak bisa kita larikan.
+00:57:24,108 --> 00:57:26,651
+<font color="yellow">Aku sudah tak melakukannya
+selama bertahun-tahun.</font>
 
 481
-01:00:00,640 --> 01:00:02,320
-Oke, tunggu, tunggu dulu.
+00:57:30,781 --> 00:57:33,032
+<font color="yellow">Pelan-pelanlah.</font>
 
 482
-01:02:41,530 --> 01:02:44,200
-Lori, Carl, aku minta maaf.
+00:57:33,200 --> 00:57:35,785
+<font color="yellow">Pelan-pelanlah, Nak.</font>
 
 483
-01:05:08,300 --> 01:05:09,560
-<i>Hei, kau.</i>
+00:57:35,953 --> 00:57:37,762
+<font color="yellow">Pelan-pelanlah.</font>
 
 484
-01:05:11,860 --> 01:05:12,850
-<i>Bodoh.</i>
+00:57:54,721 --> 00:57:56,472
+<font color="yellow">Ayo pergi.</font>
 
 485
-01:05:15,450 --> 01:05:16,630
-<i>Hei, kau di dalam tank.</i>
+00:59:44,362 --> 00:59:45,414
+<font color="yellow">Tenanglah.</font>
 
 486
-01:05:17,510 --> 01:05:18,550
-<i>Nyaman di sana?</i>
+00:59:45,582 --> 00:59:48,167
+<font color="yellow">Hanya sedikit.
+Tak ada yang bisa mengejar kita.</font>
 
 487
-01:05:30,050 --> 01:05:45,050
-<i>+ PRESENTED BY +
-<font color="#ff0000">http://prissysubsmovies.blogspot.com/</font></i>
-*04/11/10*
+00:59:57,427 --> 00:59:58,507
+<font color="yellow">Baiklah.</font>
+
+488
+01:01:28,477 --> 01:01:31,187
+<font color="yellow">Sial.</font>
+
+489
+01:01:38,320 --> 01:01:39,695
+<font color="yellow">Ya Tuhan.</font>
+
+490
+01:01:49,915 --> 01:01:51,665
+<font color="yellow">Ya Tuhan.</font>
+
+491
+01:01:58,673 --> 01:02:00,257
+<font color="yellow">Sial.</font>
+
+492
+01:02:14,231 --> 01:02:16,023
+<font color="yellow">Ya Tuhan.</font>
+
+493
+01:02:39,089 --> 01:02:41,757
+<font color="yellow">Lori, Carl, maafkan aku.</font>
+
+494
+01:02:53,937 --> 01:02:55,938
+<font color="yellow">Ya Tuhan.</font>
+
+495
+01:03:26,970 --> 01:03:28,471
+<font color="yellow">Ya Tuhan.</font>
+
+496
+01:05:05,944 --> 01:05:07,945
+<font color="yellow"><i>Hei, kau.</i></font>
+
+497
+01:05:09,531 --> 01:05:11,407
+<font color="yellow"><i>Bodoh.</i></font>
+
+498
+01:05:12,951 --> 01:05:14,243
+<font color="yellow"><i>Ya, kau yang di dalam
+tank itu.</i></font>
+
+499
+01:05:14,411 --> 01:05:17,037
+<font color="yellow"><i>Kau merasa nyaman
+di dalam sana?</i></font>
+
+500
+01:06:14,903 --> 01:06:23,544
+<font color="yellow">Sumbawa, 24 Desember 2011</font>
+
+501
+01:06:27,712 --> 01:07:02,026
+<font color="yellow">--- Penerjemah: Rizal Adam ---
+http://rizaladam.wordpress.com</font>
+
